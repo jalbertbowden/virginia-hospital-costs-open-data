@@ -11,5 +11,5 @@ This repository is a collection of these shared datasets.
 [Sentara Hospital Charges](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/sentara/2019-Sentara-Pricing-Transparency-Hampton-Roads-Northern-VA.csv)  
 
 ## [VCU](https://www.vcuhealth.org/locations/vcu-medical-center/billing-and-insurance/price-transparency)  
-[VCU Charge Description Master (CDM)](https://www.vcuhealth.org/media/file/VCUHealth-Charge-Description-Master_Price-Transparency.xlsx)  
-[VCU Diagnosis-Related Group (DRG)](https://www.vcuhealth.org/media/file/VCUHealth-DRG-Report_Price-Transparency.xlsx)   
+[VCU Charge Description Master (CDM)](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/vcu/VCUHealth-Charge-Description-Master_Price-Transparency.csv)  
+[VCU Diagnosis-Related Group (DRG)](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/vcu/VCUHealth-DRG-Report_Price-Transparency.csv)   
