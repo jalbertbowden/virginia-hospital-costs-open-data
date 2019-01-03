@@ -10,6 +10,6 @@ Bon Secours Medical Group (BSMG) Pricing List
 ## [Sentara](https://www.sentara.com/billing/understanding-prices.aspx)  
 [See the charges for Sentara hospitals in your area](https://www.sentara.com/Assets/Pdf/Patient-Guide/Billing/2019-Sentara-Pricing-Transparency-Hampton-Roads-Northern-VA.csv)  
 
-## VCU  
+## [VCU](https://www.vcuhealth.org/locations/vcu-medical-center/billing-and-insurance/price-transparency)  
 [VCU Charge Description Master (CDM)](https://www.vcuhealth.org/media/file/VCUHealth-Charge-Description-Master_Price-Transparency.xlsx)  
 [VCU Diagnosis-Related Group (DRG)](https://www.vcuhealth.org/media/file/VCUHealth-DRG-Report_Price-Transparency.xlsx)   
