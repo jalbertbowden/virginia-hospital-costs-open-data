@@ -1,4 +1,4 @@
-# ![Clinch Valley Medical Center](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/clinch-valley-medical-center-clinch-valley-health-logotype.jpg)  
+# ![Clinch Valley Medical Center - Clinch Valley Health](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/clinch-valley-medical-center-clinch-valley-health-logotype.jpg)  
 
 ## References
 
