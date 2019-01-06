@@ -1,3 +1,4 @@
+![Bath County Community Hospital](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/bath-county-community-hospital-logo.jpg)  
 # References
 
 ## [Understanding Pricing](https://bathhospital.org/services/business-office/understanding-pricing/)  
