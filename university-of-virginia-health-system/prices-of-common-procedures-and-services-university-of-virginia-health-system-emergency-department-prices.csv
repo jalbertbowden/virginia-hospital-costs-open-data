@@ -1,8 +1,0 @@
-*Service*,*Billing term*,* Price*
-"Emergency department visit, limited or minor problem",ED LEVEL 1,$356
-"Emergency department visit, low to moderately severe problem",ED LEVEL 2,$587
-"Emergency department visit, moderately severe problem",ED LEVEL 3,$940
-"Emergency department visit, problem of high severity",ED LEVEL 4,"$1,535"
-"Emergency department visit, problem with significant threat to life or 
-function",ED LEVEL 5,"$2,808"
-"Critical care for a critically ill or injured patient, first 30-74 minutes",CRITICAL CARE 30-74 MIN,"$4,128"
