@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Inova Emergency Care</name>
+    <description>24 hours a day, 7 days a week, 365 days a year</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Emergency Room</name>
+      <Placemark>
+        <name>Inova Emergency Room - Fairfax City</name>
+        <description><![CDATA[Address: 4315 Chain Bridge Rd, Fairfax, VA 22030<br>Phone: (703) 877-8200<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/index.jsp#fairfax<br>Get Directions: https://goo.gl/maps/no6NtQrCoUA2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4315 Chain Bridge Rd, Fairfax, VA 22030</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 877-8200</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/index.jsp#fairfax</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/no6NtQrCoUA2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.310147,38.837902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Emergency Room - Leesburg</name>
+        <description><![CDATA[Address: 224 Cornwall Street Northwest, Leesburg, VA 20176<br>Phone: (703) 737-7520<br>Website: https://www.inova.org/healthcare-services/emergency-services/locations/inova-loudoun-hospital/index.jsp#leesburg<br>Get Directions: https://goo.gl/maps/qf7xKZLxzfT2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>224 Cornwall Street Northwest, Leesburg, VA 20176</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 737-7520</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.inova.org/healthcare-services/emergency-services/locations/inova-loudoun-hospital/index.jsp#leesburg</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/qf7xKZLxzfT2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5688527,39.1197945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Emergency Room - Reston/Herndon</name>
+        <description><![CDATA[Address: 11901 #A Baron Cameron Ave, Reston, VA 20190<br>Phone: (703) 668-8333<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/index.jsp#reston<br>Get Directions: https://goo.gl/maps/QdWigCbHJZU2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>11901 #A Baron Cameron Ave, Reston, VA 20190</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 668-8333</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/index.jsp#reston</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/QdWigCbHJZU2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.3568538,38.9654599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Fair Oaks Hospital Emergency Room</name>
+        <description><![CDATA[Address: 3600 Joseph Siewick Dr, Fairfax, VA 22033<br>Phone: (703) 391-3600<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-fair-oaks-hospital/index.jsp<br>Get Directions: https://goo.gl/maps/1YTJpsEoiRE2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3600 Joseph Siewick Dr, Fairfax, VA 22033</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 391-3600</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-fair-oaks-hospital/index.jsp</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/1YTJpsEoiRE2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.3801957,38.8854168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Emergency Room - HealthPlex Franconia/Springfield</name>
+        <description><![CDATA[Address: 6355 Walker Ln, Alexandria, VA 22310<br>Phone: (703) 797-6800<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-healthplex/franconia-springfield<br>Get Directions: https://goo.gl/maps/x3QV3v7AmaJ2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>6355 Walker Ln, Alexandria, VA 22310</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 797-6800</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-healthplex/franconia-springfield</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/x3QV3v7AmaJ2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.160732,38.7674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Emergency Room - HealthPlex Lorton</name>
+        <description><![CDATA[Address: 9321 Sanger St, Lorton, VA 22079<br>Phone: (703) 982-8324<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-healthplex/lorton<br>Get Directions: https://goo.gl/maps/Gi1Kwj6XB172]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>9321 Sanger St, Lorton, VA 22079</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 982-8324</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-healthplex/lorton</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/Gi1Kwj6XB172</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.2269583,38.702606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Emergency Room - Ashburn</name>
+        <description><![CDATA[Address: 22505 Landmark Ct, Ashburn, VA 20148<br>Phone: (571) 612-6400<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-healthplex/ashburn<br>Get Directions: https://goo.gl/maps/UNskdv2sUbU2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>22505 Landmark Ct, Ashburn, VA 20148</value>
+          </Data>
+          <Data name="Phone">
+            <value>(571) 612-6400</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-healthplex/ashburn</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/UNskdv2sUbU2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4808321,38.9950915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Fairfax Hospital Emergency Room</name>
+        <description><![CDATA[Address: 3300 Gallows Rd, Falls Church, VA 22042<br>Phone: (703) 776-3116<br>Website: http://www.inova.org/inova-trauma-center/<br>Get Directions: https://goo.gl/maps/3UH2MFUaLbH2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3300 Gallows Rd, Falls Church, VA 22042</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 776-3116</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/inova-trauma-center/</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/3UH2MFUaLbH2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.227729,38.857629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Inova Children's Hospital Emergency Room]]></name>
+        <description><![CDATA[Address: 3300 Gallows Rd, Falls Church, VA 22042<br>Phone: (703) 776-3154<br>Website: http://www.inovachildrens.org/emergency-urgent-care<br>Get Directions: https://goo.gl/maps/3VM9rNwyVU62]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3300 Gallows Rd, Falls Church, VA 22042</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 776-3154</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inovachildrens.org/emergency-urgent-care</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/3VM9rNwyVU62</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.226452,38.857646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Mount Vernon Hospital Emergency Room</name>
+        <description><![CDATA[Address: 2501 Parkers Ln, Alexandria, VA 22306<br>Phone: (703) 664-7000<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/mount-vernon-hospital<br>Get Directions: https://goo.gl/maps/RienMCgbi2C2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2501 Parkers Ln, Alexandria, VA 22306</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 664-7000</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/mount-vernon-hospital</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/RienMCgbi2C2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.0772627,38.7405036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Loudoun Hospital Emergency Room</name>
+        <description><![CDATA[Address: 44045 Riverside Parkway<br>Phone: (703) 858-6048<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-loudoun-hospital/index.jsp<br>Get Directions: https://goo.gl/maps/XEVSwVYmstL2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>44045 Riverside Parkway</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 858-6048</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-loudoun-hospital/index.jsp</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/XEVSwVYmstL2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.478056,39.074981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Inova Loudoun Hospital Children's Emergency Room]]></name>
+        <description><![CDATA[Address: 44045 Riverside Pkwy, Leesburg, VA 20176<br>Phone: (703) 858-6048<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-loudoun-hospital/index.jsp<br>Get Directions: https://goo.gl/maps/85LV2qc2GdE2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>44045 Riverside Pkwy, Leesburg, VA 20176</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 858-6048</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-loudoun-hospital/index.jsp</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/85LV2qc2GdE2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.477535,39.074045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Alexandria Hospital - Emergency Room</name>
+        <description><![CDATA[Address: 4320 Seminary Rd, Alexandria, VA 22304<br>Phone: (703) 504-3066<br>Website: http://www.inova.org/healthcare-services/emergency-services/locations/inova-alexandria-hospital/index.jsp<br>Get Directions: https://goo.gl/maps/7hcnyogd9kF2]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4320 Seminary Rd, Alexandria, VA 22304</value>
+          </Data>
+          <Data name="Phone">
+            <value>(703) 504-3066</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.inova.org/healthcare-services/emergency-services/locations/inova-alexandria-hospital/index.jsp</value>
+          </Data>
+          <Data name="Get Directions">
+            <value>https://goo.gl/maps/7hcnyogd9kF2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.104793,38.822888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
