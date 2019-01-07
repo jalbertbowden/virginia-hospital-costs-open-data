@@ -7,3 +7,5 @@ This repository is a collection of these shared datasets, and other pertinent in
  
 ## [List of Hospitals in Virginia](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/tree/master/hospitals)  
 There is no clear, definitive source online; collection of three sources to aggregate
+
+[Compare Virginia Hospital Pricing - VHHA PricePoint](http://www.vapricepoint.org/ReportINP.aspx)  
