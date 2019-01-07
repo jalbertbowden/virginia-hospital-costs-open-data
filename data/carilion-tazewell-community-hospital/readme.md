@@ -1,4 +1,7 @@
-# Carilion Tazewell Community Hospital  
+# Carilion Tazewell Community Hospital (CTCH)  
+
+[Carilion Tazewell Community Hospital - Hospital Charges FY 2019 - Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/carilion-tazewell-community-hospital/ctch-hospital-charges-fy-2019-data.csv)  
+[Carilion Tazewell Community Hospital - Hospital Charges FY 2019 - Notes](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/carilion-tazewell-community-hospital/ctch-hospital-charges-fy-2019-notes.csv)  
 
 ## References
 
