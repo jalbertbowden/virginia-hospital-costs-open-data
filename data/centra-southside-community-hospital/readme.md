@@ -1,3 +1,4 @@
+# ![Centra Southside Community Hospital](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/centra-southside-community-hospital.png)   
 # Centra Southside Community Hospital  
 
 [Centra Southside Community Hospital Pricing Information - Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/centra-southside-community-hospital/cms-price-trans-sch-data.csv)  
