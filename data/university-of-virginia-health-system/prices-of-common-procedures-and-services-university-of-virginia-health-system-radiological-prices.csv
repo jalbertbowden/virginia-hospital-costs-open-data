@@ -22,7 +22,7 @@
 "Ultrasound of abdomen","US ABDOMEN LTD","801"
 "Ultrasound behind abdominal cavity","US RETROPERITIONEAL","906"
 "Ultrasound re-evaluation of pregnant uterus, per fetus","US PREGNANCY FOLLOWUP","532"
-"Ultrasound of pelvis through vagina,US TRANSVAGINAL","890"
+"Ultrasound of pelvis through vagina","US TRANSVAGINAL","890"
 "Ultrasound guidance for accessing into blood vessel","US GUIDED VASCULAR ACCESS","652"
 "Ultrasonic guidance imaging supervision and interpretation for insertion of needle","ECHO GUIDE FOR BIOPS","810"
 "Diagnostic mammography of one breast","DIGITAL DIAG MAMMOGRAM","479"
