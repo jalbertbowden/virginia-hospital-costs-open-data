@@ -1,3 +1,4 @@
+# ![Encompass Health Rehabilitation Hospital of Fredricksburg](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/encompass-health-rehabilitation-hospital-of-fredericksburg.png)  
 # Encompass Health Rehabilitation Hospital of Fredericksburg  
 
 [Encompass Health Rehabilitation Hospital of Fredericksburg - Full Price List - Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/encompass-health-rehabilitation-hospital-of-fredericksburg/030171-price-transparency-file-revise-data.csv)  
