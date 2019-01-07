@@ -1,4 +1,4 @@
-*Service*,*Billing term*,*  Price*
+"Service","Billing Term","Price"
 "Blood test, basic group of blood chemicals",BASIC METABOLIC PANEL,$221
 "Blood test, comprehensive group of blood chemicals",COMPREHEN METABOLIC PANEL,$387
 "Blood test, lipids (cholesterol and triglycerides)",LIPID PANEL,$228
