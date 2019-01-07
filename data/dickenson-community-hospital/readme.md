@@ -8,7 +8,7 @@
 ![Dickenson Community Hospital Chargemaster 2018 - Notes - Important Information Content](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/data/dickenson-community-hospital/dickenson-community-chargemaster-2018-notes-important-information.png)  
 [Dickenson Community Hospital Chargemaster 2018 - Notes](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/dickenson-community-hospital/dickenson-community-chargemaster-2018-notes.csv)  
 [Dickenson Community Hospital MSDRG Metricks FY 2018 Inpatient Volume 80](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/dickenson-community-hospital/dickenson-community-hospital-msdrg-metrics-fy-2018-inpatient-volume-80.csv)  
-![Dickenson Community Hospital MSDRG Metricks FY 2018 Inpatient Volume 80 Table Data](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/data/dickenson-community-hospital/dickenson-community-hospital-msdrg-metrics-fy-2018-inpatient-volume-80.png)  
+![Dickenson Community Hospital MSDRG Metricks FY 2018 Inpatient Volume 80 Table Data](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/data/dickenson-community-hospital/dickenson-community-hospital-msdrg-metrics-fy-2018-inpatient-volume-80-clean.png)  
 
 ## References  
 
