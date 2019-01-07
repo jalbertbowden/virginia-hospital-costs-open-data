@@ -1,8 +1,7 @@
-*Service*,*Billing term*,*  Price*
-"Evaluation of physical therapy, typically 20 minutes",PT EVAL LOW COMPLEX 20 MIN,$303
-"Evaluation of physical therapy, typically 30 minutes",PT EVAL MOD COMPLEX 30 MIN,$358
-"Evaluation of physical therapy, typically 45 minutes",PT EVAL HIGH COMPLEX 45 MIN,$441
-"Walking training to 1 or more areas, each 15 minutes",GAIT TRAINING 15 MIN,$140
-"Therapeutic activities to improve function, with one-on-one contact between 
-patient and provider, each 15 minutes",THERAPEUTIC ACTIVITY 15 MIN,$140
-Therapeutic procedures in a group setting,THERAPEUTIC GROUP,$140
+"Service","Billing Term","Price"
+"Evaluation of physical therapy, typically 20 minutes","PT EVAL LOW COMPLEX 20 MIN","303"
+"Evaluation of physical therapy, typically 30 minutes","PT EVAL MOD COMPLEX 30 MIN","358"
+"Evaluation of physical therapy, typically 45 minutes","PT EVAL HIGH COMPLEX 45 MIN","441"
+"Walking training to 1 or more areas, each 15 minutes","GAIT TRAINING 15 MIN","140"
+"Therapeutic activities to improve function, with one-on-one contact between patient and provider, each 15 minutes","THERAPEUTIC ACTIVITY 15 MIN","140"
+Therapeutic procedures in a group setting","THERAPEUTIC GROUP","140"
