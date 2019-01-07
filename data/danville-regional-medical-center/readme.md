@@ -1,8 +1,8 @@
 # ![Danville Regional Medical Center - SOVAH](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/danville-regional-medical-center-sovah-health-logo.png)  
 # Danville Regional Medical Center - SOVAH  
 
-[Danville Regional Medical Center - SOVAH - List of Charges - ]()  
-[Danville Regional Medical Center - SOVAH - List of Charges - ]()  
+[Danville Regional Medical Center - SOVAH - List of Charges - Average Charges by DRG 2018-12-21](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/danville-regional-medical-center/danville-regional-understanding-billing-and-charges-2018-12-21-average-charges-by-drg.csv)  
+[Danville Regional Medical Center - SOVAH - List of Charges - Understanding Your Bill 2018-12-21](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/danville-regional-medical-center/danville-regional-understanding-billing-and-charges-2018-12-21-danville-regional-understanding.csv)  
 
 ## References
 
