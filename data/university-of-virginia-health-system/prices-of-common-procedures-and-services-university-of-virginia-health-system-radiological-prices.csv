@@ -1,31 +1,30 @@
-*Service*,*Billing term*,*  Price *
-CT scan of head or brain without contrast,CT HEAD/BRAIN W/O CONTRAST,"$2,153"
-MRI scan of brain before and after contrast,MRI BRAIN W & W/O CONTR,"$5,737"
-"X-ray of chest, 1 view",X-RAY EXAM CHEST 1 VIEW,$344
-"X-ray of chest, 2 views",X-RAY EXAM CHEST 2 VIEWS,$403
-CT scan of chest without contrast,CT THORAX W/O CONTRAST,"$2,671"
-CT scan of chest with contrast,CT CHEST W/CONTRAST,"$3,278"
-"X-ray of lower and sacral spine, 2 or 3 views",XR L-SPINE 2-3V,$548
-"X-ray of shoulder, minimum of 2 views",XR SHOULDER CMPL 2+V,$647
-"X-ray of wrist, minimum of 3 views",XR WRIST CMPL 3+V,$647
-"X-ray of hand, minimum of 3 views",XR HAND CMPL 3+V,$607
-"X-ray of hip with pelvis, 2-3 views",X-RAY EXAM HIP UNI 2-3 VIEWS,$899
-"X-ray of knee, 1 or 2 views",XR KNEE 1-2V,$625
-"X-ray of knee, 4 or more views",XR KNEE CMPL 4+V,$860
-"X-ray of ankle, minimum of 3 views",XR ANKLE 3+V,$690
-"X-ray of foot, minimum of 3 views",XR FOOT CMPL 3+V,$690
-"X-ray of abdomen, 1 view",X-RAY EXAM ABDOMEN 1 VIEW,$357
-CT scan of abdomen and pelvis without contrast,CT ABD & PELVIS W/O CONTRAST,"$5,548"
-CT scan of abdomen and pelvis with contrast,CT ABDOMEN & PELVIS W/CONTRAST,"$6,195"
-Ultrasound of head and neck,US SOFT TISSUE HEAD/NECK,$948
-Ultrasound of one breast,ULTRASOUND BREAST LIMITED,$666
-Ultrasound of abdomen,US ABDOMEN LTD,$801
-Ultrasound behind abdominal cavity,US RETROPERITIONEAL,$906
-"Ultrasound re-evaluation of pregnant uterus, per fetus",US PREGNANCY FOLLOWUP,$532
-Ultrasound of pelvis through vagina,US TRANSVAGINAL,$890
-Ultrasound guidance for accessing into blood vessel,US GUIDED VASCULAR ACCESS,$652
-"Ultrasonic guidance imaging supervision and interpretation for insertion of 
-needle",ECHO GUIDE FOR BIOPSY,$810
-Diagnostic mammography of one breast,DIGITAL DIAG MAMMOGRAM,$479
-Screening mammography of both breasts,"SCREENING MAMMOGRAPHY, DIGITAL",$476
-Bone density measurement using dedicated X-ray machine,XR BONE DENSITY AXIAL,$747
+"Service","Billing Term","Price"
+"CT scan of head or brain without contrast","CT HEAD/BRAIN W/O CONTRAST","2153"
+"MRI scan of brain before and after contrast","MRI BRAIN W & W/O CONTR","5737"
+"X-ray of chest, 1 view","X-RAY EXAM CHEST 1 VIEW","344"
+"X-ray of chest, 2 views","X-RAY EXAM CHEST 2 VIEWS","403"
+"CT scan of chest without contrast","CT THORAX W/O CONTRAST","2671"
+"CT scan of chest with contrast","CT CHEST W/CONTRAST","3278"
+"X-ray of lower and sacral spine, 2 or 3 views","XR L-SPINE 2-3V","548"
+"X-ray of shoulder, minimum of 2 views","XR SHOULDER CMPL 2+V","647"
+"X-ray of wrist, minimum of 3 views","XR WRIST CMPL 3+V","647"
+"X-ray of hand, minimum of 3 views","XR HAND CMPL 3+V","607"
+"X-ray of hip with pelvis, 2-3 views","X-RAY EXAM HIP UNI 2-3 VIEWS","899"
+"X-ray of knee, 1 or 2 views","XR KNEE 1-2V","625"
+"X-ray of knee, 4 or more views","XR KNEE CMPL 4+V","860"
+"X-ray of ankle, minimum of 3 views","XR ANKLE 3+V","690"
+"X-ray of foot, minimum of 3 views","XR FOOT CMPL 3+V","690"
+"X-ray of abdomen, 1 view","X-RAY EXAM ABDOMEN 1 VIEW","357"
+"CT scan of abdomen and pelvis without contrast","CT ABD & PELVIS W/O CONTRAST","5548"
+"CT scan of abdomen and pelvis with contrast","CT ABDOMEN & PELVIS W/CONTRAST","6195"
+"Ultrasound of head and neck","US SOFT TISSUE HEAD/NECK","948"
+"Ultrasound of one breast","ULTRASOUND BREAST LIMITED","666"
+"Ultrasound of abdomen","US ABDOMEN LTD","801"
+"Ultrasound behind abdominal cavity","US RETROPERITIONEAL","906"
+"Ultrasound re-evaluation of pregnant uterus, per fetus","US PREGNANCY FOLLOWUP","532"
+"Ultrasound of pelvis through vagina,US TRANSVAGINAL","890"
+"Ultrasound guidance for accessing into blood vessel","US GUIDED VASCULAR ACCESS","652"
+"Ultrasonic guidance imaging supervision and interpretation for insertion of needle","ECHO GUIDE FOR BIOPS","810"
+"Diagnostic mammography of one breast","DIGITAL DIAG MAMMOGRAM","479"
+"Screening mammography of both breasts","SCREENING MAMMOGRAPHY, DIGITAL","476"
+"Bone density measurement using dedicated X-ray machine","XR BONE DENSITY AXIAL","747"
