@@ -1,4 +1,4 @@
-# ![Centra Lynchburg General Hospital](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/centra-lynchburg-general-logotype.png)  
+# ![Centra Lynchburg General Hospital](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/centra-lynchburg-general-hospital.png)  
 # Centra Lynchburg General Hospital  
 
 [Centra Lynchburg General Hospital Pricing Information - Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/centra-lynchburg-general-hospital/cms-price-trans-lgh-vbh-ltach-3-data.csv)  
