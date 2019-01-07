@@ -1,4 +1,4 @@
-*Service*,*Billing term*,*  Price *
+"Service","Billing Term","Price"
 "Evaluation of occupational therapy, typically 20 minutes",OT EVAL LOW COMPLEX 30 MIN,$303
 "Evaluation of occupational therapy, typically 45 minutes",OT EVAL MOD COMPLEX 45 MIN,$358
 "Evaluation of occupational therapy, typically 60 minutes",OT EVAL HIGH COMPLEX 60 MIN,$441
