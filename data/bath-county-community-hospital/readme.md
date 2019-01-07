@@ -1,6 +1,10 @@
 ![Bath County Community Hospital](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/bath-county-community-hospital-logo.jpg)  
 
 [Charge Master Clinic Pricing Report 2018-12-30](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/bath-county-community-hospital/pricing-report-2018-12-30-for-publication-charge-master-clinic.csv)  
+[Charge Master Hospital Pricing Report 2018-12-30](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/bath-county-community-hospital/pricing-report-2018-12-30-for-publication-charge-master-hospital.csv)  
+[Inpatient Service Pricing Report 2018-12-30](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/bath-county-community-hospital/pricing-report-2018-12-30-for-publication-inpatient-service.csv)  
+[Outpatient Surgery Pricing Report 2018-12-30](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/bath-county-community-hospital/pricing-report-2018-12-30-for-publication-outpatient-surgery.csv)  
+
 
 ## References
 
