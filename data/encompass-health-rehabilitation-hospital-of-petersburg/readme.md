@@ -1,4 +1,4 @@
-# ![Encompass Health Rehabilitation Hospital of Petersburg](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/encompass-health-rehabilitation-hospital-of-northern-virginia.png)  
+# ![Encompass Health Rehabilitation Hospital of Petersburg](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/encompass-health-rehabilitation-hospital-of-petersburg.png)  
 # Encompass Health Rehabilitation Hospital of Petersburg  
 
 
