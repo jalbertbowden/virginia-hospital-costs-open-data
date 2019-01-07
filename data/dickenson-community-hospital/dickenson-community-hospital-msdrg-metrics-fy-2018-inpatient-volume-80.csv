@@ -1,4 +1,4 @@
-"MSDRG Code","MSDRG Description","Metrics","Average Length of Stay (IP)","Mortality Rate (IP)",""% 30 Day Readmits w/Excludes (Any APR-DRG) (IP)","Severity Adj Cost Per Case"
+"MSDRG Code","MSDRG Description","Metrics","Average Length of Stay (IP)","Mortality Rate (IP)","% 30 Day Readmits w/Excludes (Any APR-DRG) (IP)","Severity Adj Cost Per Case"
 "057","DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC",","18.67","0.00%",","16987.05"
 "190","CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC",","2.00","0.00%","0.00%","3227.49"
 "194","SIMPLE PNEUMONIA & PLEURISY W CC",","2.33","0.00%","0.00%","5001.79"
