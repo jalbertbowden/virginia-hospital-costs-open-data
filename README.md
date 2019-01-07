@@ -3,7 +3,7 @@
 As of 2019-01-01, hospitals should be publishing costs data, per federal law.
 This repository is a collection of these shared datasets, and other pertinent information.  
 
-## [Data]()  
+## [Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/readme.md)  
  
 ## [List of Hospitals in Virginia](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/tree/master/hospitals)  
 There is no clear, definitive source online; collection of three sources to aggregate
