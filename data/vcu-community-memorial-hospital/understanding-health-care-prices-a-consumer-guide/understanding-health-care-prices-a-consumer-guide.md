@@ -1,0 +1,99 @@
+# Understanding Healthcare Prices: A Consumer Guide  
+
+## Insurance Codes: What You Need to Know
+Your healthcare providers and your health plan use several types of codes to communicate with each other
+about payment. The codes are designed to make sure that billing and payment are handled the right way.
+To get a price estimate, you should have the following code information:
+
+"ICD-9 or ICD-10 code","The International Classification of Diseases codes identify your health condition or diagnosis. For example, 250.0 means diabetes with no complications; 493.0 is the ICD-9 code for asthma."
+
+"CPT® code","Current Procedural Terminology (CPT) codes are numbers that are often used on medical bills to identify the charge for each service and procedure billed by a provider to you and/or your health insurance plan. For example, the six CPT codes 99460–99465 are for newborn care services; 99281–99288 are CPT codes for emergency department services."
+
+"HCPCS code (say “Hickpicks”).","Medicare uses these codes in place of CPT codes. If you don’t have Medicare, you don’t need to know these codes."
+
+Before you ask your health plan for a price estimate, ask your provider to supply the code numbers that relate to the service or procedure you plan to receive. In many instances, the exact code is not known until the procedure is performed. Because thousands of codes are in use, the codes may not be available at the time of your request. Your doctor or hospital may need to follow up with you to provide this information. Also, few of the online price information tools available today include price information for all of these codes. Often, online information is available only for common tests and procedures.
+
+
+Question,Likely Answers,Tips
+
+"What is the exact name of the procedure?","Laparoscopic cholecystectomy","Ask the doctor to clearly print the name of the procedure. Correct spelling is important and many surgery names sound similar."
+
+"What ICD-9 or ICD-10 codes will be used?","One or more codes","Your health plan pays healthcare providers based on these diagnosis codes, which the doctor’s office or hospital will provide to them. The coding system is in the process of being updated from ICD-9 to ICD-10, which is much more detailed than ICD-9. When the conversion is final, the code numbers will change."
+
+"What is the CPT® code for this procedure?","One or more five-digit codes","CPT codes are the billing codes that are used by providers—usually for physician services—throughout the United States."
+
+"What tests will I need before the surgery?","Blood tests, Diagnostic imaging tests, such as a CT scan or ultrasound","Ask for specifics about which blood tests will be ordered. Ask the doctor if you have a choice of facilities for getting these tests done. Check with your health plan before you have the test to find out where your out-of-pocket cost will be lowest."
+
+"Will other doctors be involved in my care and bill me for their services?","A pathologist, a radiologist, and an anesthesiologist may be involved in your care.","Even if your surgeon and the hospital are in your health plan’s network, other doctors involved in your hospital care may not be. (<a href="#in-network-and-out-of-network-care">For more information, see page 11 'In-Network and Out-of-Network Care'</a>.)"
+
+"What kind of anesthesia will I receive?","General anesthesia","Many surgeries will involve care by an anesthesiologist and other doctors who may or may not be part of your health plan’s network. (<a href="#in-network-and-out-of-network-care">For more information, see page 11 'In-Network and Out-of-Network Care'</a>.)"
+
+"After my surgery, will I go right home from the hospital? What medications and follow-up care will I need?","After you are discharged from the hospital, you should be able to go directly home. You may need to take [name of medication] for [period of time] after your surgery.","Although it is unlikely after gall bladder surgery, after some operations, you may need care in a rehabilitation unit or skilled nursing facility for a while. Or you may need home health care. Your health plan can provide information about coverage and prices. (The cost of medication you take at home is rarely included in price estimates.)"
+
+"What else should I know about—such as potential complications—that might affect the cost of the procedure?,"In a few cases, the minimally invasive gall bladder surgery has to be changed to an 'open' cholecystectomy, which may or may not be more expensive.","You and your doctor should already have discussed this when you talked about the risks and benefits of the surgery. If not, be sure to ask questions about the open procedure before the day of surgery. Having a different procedure (or an additional procedure) is likely to change the cost. And if you need to stay overnight in the hospital for any reason, that is generally more expensive than an outpatient procedure."
+
+
+
+<h2><a id="in-network-and-out-of-network-care" href="#nogo">In-Network and Out-of-Network Care</a></h2>
+
+"",HMO In-Network,POS In-Network,PPO In-Network"
+"Provider’s Usual Charge,"1000","1000","1000"
+"Your Plan’s Contracted Rate","500","500","500"
+"Your Cost Sharing","10 copayment","10 copayment","20% coinsurance"
+"Your Plan Pays to the Provider","490 (500 – 10)","490 (500 – 10)","500 x 80% = 400"
+"You Pay to the Provider","10","10","500 x 20% = 100"
+
+
+"",HMO Out-of-Network,POS Out-of-Network,PPO Out-of-Network
+Provider’s Charge,"$1,000","$1,000","$1000"
+Your Plan’s Allowed Amount,$0,$800,$800
+Your Cost Sharing,100%,"30% of the allowed amount plus the difference between the allowed amount and provider’s charge","30% of the allowed amount plus the difference between the allowed amount and provider’s charge"
+Your Plan Pays the Provider,$0,70% of $800 = $560,70% of $800 = $560
+You Pay to the Provider,"$1,000 (100%)","30% of $800 = $240 plus $1,000 - $800 = $200","30% of $800 = $240 plus $1,000 - $800 = $200"
+"Your Total Cost","1000","440","440"
+
+Guiding Principles for Improving Price Information
+
+"Guiding Principle","What That Means for You"
+"Price transparency should empower patients to make meaningful price comparisons prior to receiving care. It should also enable other care purchasers and referring clinicians to identify providers that offer the level of value sought by the care purchaser or the clinician and his or her patient.","You should have information that enables you to make meaningful price comparisons before you buy a healthcare service. The information should also allow doctors and other healthcare professionals to identify providers that can best meet your needs."
+"Any form of price transparency should be easy to use and easy to communicate to stakeholders.","Price information should be easy for you to use and understand."
+"Price transparency information should be paired with other information that defines the value of care for the care purchaser.","Along with price information, you should receive information about quality, safety, patient experience, and other aspects of care that are important to you."
+"Price transparency information should ultimately provide patients with the information they need to understand the total price of their care and what is included in that price.","You should receive the information you need to understand: The total price of your care, What is included in that price, What is excluded from that price"
+"Price transparency will require the commitment and active participation of all stakeholders.","Hospitals, doctors and other healthcare professionals, and consumers each have a part to play and will need to work together to reach these goals."
+
+
+## Definitions  
+
+"Affordable Care Act","The healthcare reform law—the Patient Protection and Affordable Care Act—enacted in March 2010 ."
+"Allowed amount","Maximum amount on which insurance payment is based for covered healthcare services . This may be called 'eligible expense', 'payment allowance', or 'negotiated rate'. If your provider charges more than the allowed amount, you may have to pay the difference ."
+"Balance billing","When a provider bills you for the difference between the provider’s charge and the allowed amount . For example, if the provider’s charge is $100 and the  allowed amount is $70, the provider may bill you for the remaining $30 . A network provider may not balance bill you for covered services ."
+"Children’s Health Insurance Program (CHIP)","Insurance program jointly funded by state and federal government that provides health coverage to low- income children and, in some states, pregnant women in families who earn too much income to qualify for Medicaid but can’t afford to purchase private health insurance coverage ."
+"Coinsurance","Your percentage share of the costs of a covered healthcare service . This (for example, 20 percent) is based on the allowed amount for the service . You pay coinsurance plus any deductibles you owe . For example, if the health plan’s allowed amount for an office visit is $100 and you’ve met your deductible, your coinsurance payment of 20 percent would be $20 . The health insurance or plan pays the rest of the allowed amount ."
+"Contracted rates","The amounts that health plans will pay to healthcare providers in their networks for services . These rates are negotiated and established in the plans’ contracts with in-network providers ."
+"Copayment","A fixed amount (for example, $15) you pay for a covered healthcare service, usually when you get the service . The amount can vary by the type of covered healthcare service .
+Cost sharing","This refers to the ways that health plan costs are shared between employers and employees . Generally, costs are shared in two main ways: through premium contributions and through payments for healthcare services, such as copayments, a fixed amount paid by plan members at the time they obtain services; coinsurance, a percent of the charge for services that is typically billed after services are received; and deductibles, a flat amount that plan members must pay before they are eligible for any benefits ."
+"CPT® code","Current Procedural Terminology (CPT) codes are numbers assigned to medical services and procedures . The codes are part of a uniform system maintained by the American Medical Association and used by medical providers, facilities and insurers . Each code number is unique and refers to a written description of a specific medical service or procedure . CPT codes are often used on medical bills to identify the charge for each service and procedure billed by a provider to you and/or your health plan . Most CPT codes are very specific in nature . For example, the CPT code for a 15-minute office visit is different from the CPT code for a 30-minute office visit . You will see a CPT code on your Explanation of Benefits form (EOB) . You can also ask your healthcare provider for the CPT code for a procedure or service you will undergo, or have already received . You may need these codes to receive accurate price estimates . CPT® is a registered trademark of the American Medical Association ."
+"Deductible","The amount you are expected to pay for healthcare services your health plan covers before your health plan begins to pay . For example, if your deductible is $1,000, your plan won’t pay anything until you’ve met your $1,000 deductible for covered healthcare services subject to the deductible . The deductible may not apply to all services, for example, preventive services such as blood pressure screening ."
+"Elective surgery","If a surgery is not an emergency, it is considered an elective surgery ."
+"Explanation of benefits (EOB)","A statement sent by your health plan after you receive healthcare services from a provider . For each service, it shows the amount charged by the provider, the plan’s allowable charge, the plan’s payment, and the amount you owe . It is not a bill ."
+"Flexible spending account (FSA)","An arrangement you set up through your employer to
+pay for many of your out-of-pocket medical expenses with tax-free dollars . These expenses include insurance copayments and deductibles, and qualified prescription drugs, insulin, and medical devices ." You decide how much of your pre-tax wages you want taken out of your paycheck and put into an FSA . You don’t have to pay taxes on this money . There is a limit on the amount you can put into an FSA each year . Your employer may set a lower limit ."
+"Health insurance","A contract that requires your health insurer to pay some or all of your healthcare costs in exchange for a premium ."
+"Health maintenance organization (HMO)","A health insurance plan that requires members to get referrals from their primary care doctor for many healthcare services and pre-authorization from the plan for certain services . In general, HMO members must use participating or 'in network' providers, except in an emergency . HMO members typically pay
+only a copayment and need not file claim forms for services they receive within the network ."
+"Health plan","The type of health insurance coverage you have, such" as a health maintenance organization or a preferred provider organization . Also referred to as health insurance plan or health insurance."
+"Health reimbursement accounts (HRA)","An employer-funded group plan from which employees are reimbursed tax-free for qualified medical expenses, up to a certain amount per year . Unused amounts may be rolled over to be used in subsequent years . The employer funds and owns the account . HRAs are sometimes called health reimbursement arrangements ."
+"Health savings account (HSA)","A medical savings account available to taxpayers who are enrolled in a high-deductible health plan . The funds contributed to the account aren’t subject to federal income tax at the time of deposit . Funds
+must be used to pay for qualified medical expenses . Unlike a flexible spending account (FSA), funds roll"
+over year to year if you don’t spend them ."
+"Healthcare provider","A doctor or other healthcare professional, hospital, or healthcare facility that is accredited, licensed, or certified to practice in their state, and is providing services within the scope of that accreditation, license, or certification ."
+"High-deductible health plan (HDHP)","A plan that features higher deductibles than traditional insurance plans . High-deductible health plans can be combined with special savings accounts such as health savings accounts or health reimbursement arrangements to allow you to pay for qualified out-of-pocket medical expenses on a pre-tax basis ."
+"ICD-9 or ICD-10 codes","The official system of assigning codes to medical diagnoses in the United States . By using these codes, healthcare professionals anywhere in the country can have a shared understanding of a patient’s diagnosis ."
+"Insurance Marketplace","A resource where individuals, families, and small businesses can: learn about their health coverage options; compare health plans based on costs, benefits, and other important features; choose a plan; and enroll in coverage . The Insurance Marketplace, also known as an exchange, also provides information on programs that help people with low to moderate income and resources pay for coverage . Visit healthcare .gov for more information ."
+"Network","The hospitals and other healthcare facilities, providers, and suppliers your health plan has contracted with to provide healthcare services ."
+"Noncovered services","Medical services that are not included in your plan . If you receive non-covered services, your health plan will not reimburse for those services and your provider will bill you, and you will be responsible for the full cost . You will need to consult with your health plan, but generally payments you make for these services do not count toward your deductible . Make sure you know what services are covered before you visit your doctor ."
+"Out-of-pocket healthcare cost","Your expenses for medical care that aren’t reimbursed by insurance . Out-of-pocket costs include deductibles, coinsurance, and copayments for covered services plus all costs for services that aren’t covered ."
+"Out-of-pocket maximum","The limit on the total amount a health insurance company requires a member to pay in deductible and coinsurance in a year . After reaching an out-of-pocket maximum, a member no longer pays coinsurance because the plan will begin to pay 100 percent of medical expenses . This only applies to covered services . Members are still responsible for services that are not covered by the plan even if they have reached the out-of-pocket maximum for covered expenses . Members also continue to pay their monthly premiums to maintain their health insurance policies ."
+"Point-of-service plan (POS)","A type of plan in which you pay less if you use doctors, hospitals, and other healthcare providers that belong to the plan’s network . POS plans also require you to get a referral from your primary care doctor in order to see a specialist ."
+"Preferred provider organization (PPO)","A type of health plan that contracts with healthcare providers, such as hospitals and doctors, to create a network of participating providers . You pay less if you use providers that belong to the plan’s network . You can use doctors, hospitals, and providers outside of the network for an additional cost ."
+"Premium","The amount that must be paid for your health insurance plan . You and/or your employer usually pay it monthly, quarterly, or yearly ."
