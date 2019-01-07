@@ -1,5 +1,6 @@
 # Chesapeake Regional Medical Center  
 
+[Chesapeake Regional Medical Center Procedures & Supplies Price List 2018](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/chesapeake-regional-medical-center/cms-2018-procedures-and-supplies-price-transparency-file-tst-2018-12-20.csv)  
 [Chesapeake Regional Medical Center Pharmacy Price List 2018-12](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/chesapeake-regional-medical-center/pricing-transparency-pharmacy.csv)  
 
 ## References
