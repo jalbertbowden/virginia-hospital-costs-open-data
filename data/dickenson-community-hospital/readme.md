@@ -1,6 +1,8 @@
-# References  
+# Dickenson Community Hospital  
 
-## Medical care and community impact reports   
+## References  
+
+### [Medical care and community impact reports](https://www.balladhealth.org/hospitals/dickenson-community-clintwood)   
 
 ### Community Health Needs Assessment (CHNA)  
 [Dickenson Community Hospital CHNA](https://www.balladhealth.org/sites/balladhealth/files/documents/DCH_Community_Health_Needs_Assessment_2018.pdf)  
