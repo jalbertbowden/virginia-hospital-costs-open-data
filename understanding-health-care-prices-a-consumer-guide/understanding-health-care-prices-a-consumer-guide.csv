@@ -16,7 +16,7 @@ services; 99281–99288 are CPT codes for emergency department services.
 the time of your request. Your doctor or hospital may need to follow up with you to provide this information.
 "Also, few of the online price information tools available today include price information for all of these codes."
 "Often, online information is available only for common tests and procedures."
-Question,Likely Answers,Tips
+"Question","Likely Answers","Tips"
 What is the exact name,Laparoscopic cholecystectomy,Ask the doctor to clearly print the name of the procedure. Correct
 of the procedure?,,spelling is important and many surgery names sound similar.
 What ICD-9 or ICD-10,One or more codes,Your health plan pays healthcare providers based on these diagnosis
@@ -59,15 +59,43 @@ You Pay to the Provider,$10,$10,$500 x 20% = $100
 "",HMO Out-of-Network,POS Out-of-Network,PPO Out-of-Network,
 Provider’s Charge,"$1,000","$1,000","$1,000",
 Your Plan’s Allowed Amount,$0,$800,$800,
-Your Cost Sharing,100%,"30% of the allowed amountplus the difference betweenthe allowed amount andprovider’s charge","30% of the allowed amountplus the difference betweenthe allowed amount andprovider’s charge",
+Your Cost Sharing,100%,"30% of the allowed amount
+plus the difference between
+the allowed amount and
+provider’s charge","30% of the allowed amount
+plus the difference between
+the allowed amount and
+provider’s charge",
 Your Plan Pays the Provider,$0,70% of $800 = $560,70% of $800 = $560,
-You Pay to the Provider,"$1,000 (100%)","30% of $800 = $240plus$1,000 - $800 = $200","30% of $800 = $240plus$1,000 - $800 = $200",
+You Pay to the Provider,"$1,000 (100%)","30% of $800 = $240
+plus
+$1,000 - $800 = $200","30% of $800 = $240
+plus
+$1,000 - $800 = $200",
 Guiding Principle,What That Means for You
-"Price transparency should empower patients to make meaningfulprice comparisons prior to receiving care. It should also enable othercare purchasers and referring clinicians to identify providers thatoffer the level of value sought by the care purchaser or the clinicianand his or her patient.","You should have information that enables you to make meaningfulprice comparisons before you buy a healthcare service. The informationshould also allow doctors and other healthcare professionals to identifyproviders that can best meet your needs."
-"Any form of price transparency should be easy to use and easy tocommunicate to stakeholders.",Price information should be easy for you to use and understand.
-"Price transparency information should be paired with otherinformation that defines the value of care for the care purchaser.","Along with price information, you should receive information aboutquality, safety, patient experience, and other aspects of care that areimportant to you."
-"Price transparency information should ultimately provide patientswith the information they need to understand the total price of theircare and what is included in that price.","You should receive the information you need to understand:▶ The total price of your care▶ What is included in that price▶ What is excluded from that price"
-"Price transparency will require the commitment and activeparticipation of all stakeholders.","Hospitals, doctors and other healthcare professionals, and consumers eachhave a part to play and will need to work together to reach these goals."
+"Price transparency should empower patients to make meaningful
+price comparisons prior to receiving care. It should also enable other
+care purchasers and referring clinicians to identify providers that
+offer the level of value sought by the care purchaser or the clinician
+and his or her patient.","You should have information that enables you to make meaningful
+price comparisons before you buy a healthcare service. The information
+should also allow doctors and other healthcare professionals to identify
+providers that can best meet your needs."
+"Any form of price transparency should be easy to use and easy to
+communicate to stakeholders.",Price information should be easy for you to use and understand.
+"Price transparency information should be paired with other
+information that defines the value of care for the care purchaser.","Along with price information, you should receive information about
+quality, safety, patient experience, and other aspects of care that are
+important to you."
+"Price transparency information should ultimately provide patients
+with the information they need to understand the total price of their
+care and what is included in that price.","You should receive the information you need to understand:
+▶ The total price of your care
+▶ What is included in that price
+▶ What is excluded from that price"
+"Price transparency will require the commitment and active
+participation of all stakeholders.","Hospitals, doctors and other healthcare professionals, and consumers each
+have a part to play and will need to work together to reach these goals."
 Copayment
 "A fixed amount (for example, $15) you pay for a"
 "covered healthcare service, usually when you get the"
