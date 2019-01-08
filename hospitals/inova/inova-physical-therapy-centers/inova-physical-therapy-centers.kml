@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Inova Physical Therapy Centers</name>
+    <description>Inova provides comprehensive inpatient physical therapy services at locations throughout Northern Virginia. </description>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Inova Physical Therapy Centers</name>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Ashburn</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4808054,38.9950877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Ballston</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.115557,38.8830583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Centreville</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.434071,38.829231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Chantilly - Dulles South</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.529348,38.932452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Prosperity</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2386287,38.86483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center Fairfax - Fair Oaks</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3809658,38.8849703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Franconia Springfield</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.160633,38.767455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Mount Vernon</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0768919,38.7363824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Springfield</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.233162,38.781525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Vienna-Tysons</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.233041,38.914945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Woodbridge</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.283115,38.633119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Virginia Square</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.1064021,38.8827755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Annandale</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2252242,38.8146476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Alexandria</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.109212,38.842143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Cub Run</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4684942,38.8899252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Physical Therapy Center - Spring Hill</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2286613,38.9425169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Center for Personalized Health</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2248649,38.8614056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

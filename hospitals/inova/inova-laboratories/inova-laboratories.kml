@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Inova Laboratories</name>
+    <description>Inova Laboratories is the only locally based, full service lab in Northern Virginia, offering hospital quality and same-day results for many tests. Our connectivity supports the continuum of care for patients in all care settings.</description>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Inova Laboratories</name>
+      <Placemark>
+        <name>Inova Primary Care - Ashburn II</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4576838,39.01249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Alexandria</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.1104282,38.8282886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Ballston Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.115557,38.8830583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Dulles South Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.5293249,38.932433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Fair Oaks</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3801386,38.8863185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Lorton Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2268883,38.7025642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Lorton Station</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2127415,38.7147383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - McLean</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.1807676,38.9362946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Merrifield</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2278906,38.8773015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Oakton Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.3105898,38.873624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lab at Inova Primary Care - Manassas</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.5177121,38.7809443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Shirlington Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0845768,38.8425303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Sterling Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4066403,39.0336957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Laboratories - Vienna Primary Care</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.260757,38.9031676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Medical Group Endocrinology</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -77.1607489,38.7672462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

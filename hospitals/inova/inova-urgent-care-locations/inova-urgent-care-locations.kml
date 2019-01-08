@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Inova Urgent Care</name>
+    <description>For life’s everyday bumps and bruises – and more – Inova offers Northern Virginia residents the convenient yet expert care of Inova Urgent Care.</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Inova Urgent Care</name>
+      <Placemark>
+        <name>Inova Urgent Care - North Arlington</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.1200507,38.8982877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - South Arlington</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.091781,38.862144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Centreville</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4340579,38.828961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Dulles South</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5293248,38.932433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Dunn Loring</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.228057,38.881847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Manassas</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5107699,38.7814438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Purcellville</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.7032702,39.136078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Reston</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.3504001,38.9780741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Tysons</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.2350013,38.9207319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - Vienna</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.2669044,38.8994193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inova Urgent Care - West Springfield</name>
+        <description><![CDATA[Address: <br>Phone: <br>Website: <br>Get Directions: ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value/>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+          <Data name="Website">
+            <value/>
+          </Data>
+          <Data name="Get Directions">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.2357313,38.780728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
