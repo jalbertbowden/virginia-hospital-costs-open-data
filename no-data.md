@@ -15,6 +15,7 @@ Hospitals/Medical Facilities in Virginia whose Price Transparency data cannot be
 Contact Us Form 2019-01-15.  
 Actually, the contact is sent to Henrico Doctor's Hosptial, in the link in the footer, it points to another hospital.  
 
+## ![West Creek Emergency Center](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/west-creek-emergency-center-hcava-a-campus-of-henrico-doctors-hospital-logotype.png)   
 ## [West Creek Emergency Center](https://westcreeker.com/)  
 [Location (.json)](https://core.secure.ehc.com/src/tools/services/locations-controller.dot?serviceId=&host=2d27463f-3bec-4d51-aff9-f6a54b5b2d6e&facilityUrl=&pullFrom=Auto&pullFromHost=Auto&marketId=70d4827f-03a5-4e9a-a35f-18bb9c3c0f5d&starRatings=false&showOnly=&state=&region=&division=&tag=&facilityTags=)  
 No Data Found.  
