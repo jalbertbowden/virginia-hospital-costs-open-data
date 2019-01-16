@@ -1,0 +1,493 @@
+"MS DRG","Description","Average Charges"
+"003","Ecmo Or Trach W Mv >96 Hrs Or Pdx Exc Face, Mouth & Neck W Maj O.R.",269700
+"004","Trach W Mv >96 Hrs Or Pdx Exc Face, Mouth & Neck W/O Maj O.R.",258600
+"029","Spinal Procedures W Cc Or Spinal Neurostimulators",38300
+"030","Spinal Procedures W/O Cc/Mcc",195400
+"038","Extracranial Procedures W Cc",59100
+"039","Extracranial Procedures W/O Cc/Mcc",50200
+"040","Periph/Cranial Nerve & Other Nerv Syst Proc W Mcc",65800
+"041","Periph/Cranial Nerve & Other Nerv Syst Proc W Cc Or Periph Neurostim",74200
+"053","Spinal Disorders & Injuries W/O Cc/Mcc",33000
+"054","Nervous System Neoplasms W Mcc",12900
+"055","Nervous System Neoplasms W/O Mcc",13900
+"056","Degenerative Nervous System Disorders W Mcc",18400
+"057","Degenerative Nervous System Disorders W/O Mcc",31200
+"059","Multiple Sclerosis & Cerebellar Ataxia W Cc",28000
+"060","Multiple Sclerosis & Cerebellar Ataxia W/O Cc/Mcc",18600
+"061","Ischemic Stroke, Precerebral Occlusion Or Transient Ischemia W Thrombolytic Agent W Mcc",64000
+"062","Ischemic Stroke, Precerebral Occlusion Or Transient Ischemia W Thrombolytic Agent W Cc",59900
+"063","Ischemic Stroke, Precerebral Occlusion Or Transient Ischemia W Thrombolytic Agent W/O Cc/Mcc",54400
+"064","Intracranial Hemorrhage Or Cerebral Infarction W Mcc",22100
+"065","Intracranial Hemorrhage Or Cerebral Infarction W Cc Or Tpa In 24 Hrs",20100
+"066","Intracranial Hemorrhage Or Cerebral Infarction W/O Cc/Mcc",17500
+"069","Transient Ischemia W/O Thrombolytic",17800
+"070","Nonspecific Cerebrovascular Disorders W Mcc",5300
+"071","Nonspecific Cerebrovascular Disorders W Cc",20700
+"072","Nonspecific Cerebrovascular Disorders W/O Cc/Mcc",11300
+"073","Cranial & Peripheral Nerve Disorders W Mcc",16700
+"074","Cranial & Peripheral Nerve Disorders W/O Mcc",24900
+"075","Viral Meningitis W Cc/Mcc",46300
+"076","Viral Meningitis W/O Cc/Mcc",10500
+"077","Hypertensive Encephalopathy W Mcc",24200
+"078","Hypertensive Encephalopathy W Cc",20000
+"079","Hypertensive Encephalopathy W/O Cc/Mcc",16000
+"080","Nontraumatic Stupor & Coma W Mcc",38500
+"081","Nontraumatic Stupor & Coma W/O Mcc",9300
+"083","Traumatic Stupor & Coma, Coma >1 Hr W Cc",9900
+"085","Traumatic Stupor & Coma, Coma <1 Hr W Mcc",12400
+"086","Traumatic Stupor & Coma, Coma <1 Hr W Cc",18100
+"087","Traumatic Stupor & Coma, Coma <1 Hr W/O Cc/Mcc",10400
+"091","Other Disorders Of Nervous System W Mcc",17400
+"092","Other Disorders Of Nervous System W Cc",21100
+"093","Other Disorders Of Nervous System W/O Cc/Mcc",11700
+"094","Bacterial & Tuberculous Infections Of Nervous System W Mcc",27900
+"095","Bacterial & Tuberculous Infections Of Nervous System W Cc",73900
+"097","Non-Bacterial Infect Of Nervous Sys Exc Viral Meningitis W Mcc",51900
+"098","Non-Bacterial Infect Of Nervous Sys Exc Viral Meningitis W Cc",51100
+"099","Non-Bacterial Infect Of Nervous Sys Exc Viral Meningitis W/O Cc/Mcc",29700
+"100","Seizures W Mcc",32500
+"101","Seizures W/O Mcc",19400
+"102","Headaches W Mcc",15700
+"103","Headaches W/O Mcc",18900
+"123","Neurological Eye Disorders",9000
+"125","Other Disorders Of The Eye W/O Mcc",29500
+"131","Cranial/Facial Procedures W Cc/Mcc",32000
+"132","Cranial/Facial Procedures W/O Cc/Mcc",68100
+"133","Other Ear, Nose, Mouth & Throat O.R. Procedures W Cc/Mcc",36800
+"137","Mouth Procedures W Cc/Mcc",60300
+"149","Dysequilibrium",20600
+"152","Otitis Media & Uri W Mcc",8300
+"153","Otitis Media & Uri W/O Mcc",6600
+"156","Other Ear, Nose, Mouth & Throat Diagnoses W/O Cc/Mcc",7300
+"158","Dental & Oral Diseases W Cc",9800
+"159","Dental & Oral Diseases W/O Cc/Mcc",27600
+"163","Major Chest Procedures W Mcc",99200
+"164","Major Chest Procedures W Cc",79200
+"165","Major Chest Procedures W/O Cc/Mcc",80500
+"166","Other Resp System O.R. Procedures W Mcc",56000
+"167","Other Resp System O.R. Procedures W Cc",39800
+"168","Other Resp System O.R. Procedures W/O Cc/Mcc",53800
+"175","Pulmonary Embolism W Mcc",21700
+"176","Pulmonary Embolism W/O Mcc",15800
+"177","Respiratory Infections & Inflammations W Mcc",24800
+"178","Respiratory Infections & Inflammations W Cc",20800
+"179","Respiratory Infections & Inflammations W/O Cc/Mcc",11100
+"180","Respiratory Neoplasms W Mcc",19200
+"181","Respiratory Neoplasms W Cc",12900
+"182","Respiratory Neoplasms W/O Cc/Mcc",1500
+"184","Major Chest Trauma W Cc",6600
+"185","Major Chest Trauma W/O Cc/Mcc",16400
+"186","Pleural Effusion W Mcc",24600
+"187","Pleural Effusion W Cc",10200
+"189","Pulmonary Edema & Respiratory Failure",18000
+"190","Chronic Obstructive Pulmonary Disease W Mcc",16200
+"191","Chronic Obstructive Pulmonary Disease W Cc",13000
+"192","Chronic Obstructive Pulmonary Disease W/O Cc/Mcc",12000
+"193","Simple Pneumonia & Pleurisy W Mcc",18700
+"194","Simple Pneumonia & Pleurisy W Cc",13300
+"195","Simple Pneumonia & Pleurisy W/O Cc/Mcc",9600
+"196","Interstitial Lung Disease W Mcc",20100
+"197","Interstitial Lung Disease W Cc",10700
+"198","Interstitial Lung Disease W/O Cc/Mcc",9200
+"199","Pneumothorax W Mcc",18300
+"200","Pneumothorax W Cc",10800
+"201","Pneumothorax W/O Cc/Mcc",4000
+"202","Bronchitis & Asthma W Cc/Mcc",11900
+"203","Bronchitis & Asthma W/O Cc/Mcc",6300
+"204","Respiratory Signs & Symptoms",5200
+"205","Other Respiratory System Diagnoses W Mcc",24400
+"206","Other Respiratory System Diagnoses W/O Mcc",15300
+"207","Respiratory System Diagnosis W Ventilator Support >96 Hours Or Peripheral ECMO",75600
+"208","Respiratory System Diagnosis W Ventilator Support <=96 Hours",41300
+"215","Other Heart Assist System Implant",294600
+"222","Cardiac Defib Implant W Cardiac Cath W Ami/Hf/Shock W Mcc",306400
+"223","Cardiac Defib Implant W Cardiac Cath W Ami/Hf/Shock W/O Mcc",276800
+"224","Cardiac Defib Implant W Cardiac Cath W/O Ami/Hf/Shock W Mcc",218500
+"226","Cardiac Defibrillator Implant W/O Cardiac Cath W Mcc",254000
+"227","Cardiac Defibrillator Implant W/O Cardiac Cath W/O Mcc",249700
+"239","Amputation For Circ Sys Disorders Exc Upper Limb & Toe W Mcc",59500
+"240","Amputation For Circ Sys Disorders Exc Upper Limb & Toe W Cc",77700
+"242","Permanent Cardiac Pacemaker Implant W Mcc",119500
+"243","Permanent Cardiac Pacemaker Implant W Cc",94600
+"244","Permanent Cardiac Pacemaker Implant W/O Cc/Mcc",80400
+"245","Aicd Generator Procedures",278600
+"246","Percutaneous Cardiovascular Procedures W Drug-Eluting Stent W Mcc Or 4+ Arteries Or Stents",108300
+"247","Perc Cardiovasc Proc W Drug-Eluting Stent W/O Mcc",84700
+"248","Percutaneous Cardiovascular Procedures W Non-Drug-Eluting Stent W Mcc Or 4+ Arteries Or Stents",98400
+"249","Perc Cardiovasc Proc W Non-Drug-Eluting Stent W/O Mcc",73300
+"250","Perc Cardiovasc Proc W/O Coronary Artery Stent W Mcc",72900
+"251","Perc Cardiovasc Proc W/O Coronary Artery Stent W/O Mcc",69200
+"252","Other Vascular Procedures W Mcc",69200
+"253","Other Vascular Procedures W Cc",89800
+"254","Other Vascular Procedures W/O Cc/Mcc",91700
+"255","Upper Limb & Toe Amputation For Circ System Disorders W Mcc",31300
+"256","Upper Limb & Toe Amputation For Circ System Disorders W Cc",25900
+"258","Cardiac Pacemaker Device Replacement W Mcc",79100
+"259","Cardiac Pacemaker Device Replacement W/O Mcc",64800
+"260","Cardiac Pacemaker Revision Except Device Replacement W Mcc",58300
+"261","Cardiac Pacemaker Revision Except Device Replacement W Cc",65800
+"262","Cardiac Pacemaker Revision Except Device Replacement W/O Cc/Mcc",66500
+"264","Other Circulatory System O.R. Procedures",78000
+"268","Aortic And Heart Assist Procedures Except Pulsation Balloon W Mcc",199900
+"269","Aortic And Heart Assist Procedures Except Pulsation Balloon W/O Mcc",214500
+"270","Other Major Cardiovascular Procedures W Mcc",85600
+"271","Other Major Cardiovascular Procedures W Cc",124000
+"272","Other Major Cardiovascular Procedures W/O Cc/Mcc",74300
+"273","Percutaneous Intracardiac Procedures W Mcc",129900
+"274","Percutaneous Intracardiac Procedures W/O Mcc",79400
+"280","Acute Myocardial Infarction, Discharged Alive W Mcc",23100
+"281","Acute Myocardial Infarction, Discharged Alive W Cc",20000
+"282","Acute Myocardial Infarction, Discharged Alive W/O Cc/Mcc",25700
+"283","Acute Myocardial Infarction, Expired W Mcc",28100
+"285","Acute Myocardial Infarction, Expired W/O Cc/Mcc",7400
+"286","Circulatory Disorders Except Ami, W Card Cath W Mcc",40800
+"287","Circulatory Disorders Except Ami, W Card Cath W/O Mcc",31100
+"288","Acute & Subacute Endocarditis W Mcc",47500
+"289","Acute & Subacute Endocarditis W Cc",10800
+"291","Heart Failure & Shock W Mcc Or Periph. Extracorporeal Membrane Oxygenation (Ecmo)",16000
+"292","Heart Failure & Shock W Cc",11600
+"293","Heart Failure & Shock W/O Cc/Mcc",8100
+"296","Cardiac Arrest, Unexplained W Mcc Or Periph. Extracorporeal Membrane Oxygenation (Ecmo)",40800
+"299","Peripheral Vascular Disorders W Mcc",25200
+"300","Peripheral Vascular Disorders W Cc",15200
+"301","Peripheral Vascular Disorders W/O Cc/Mcc",11100
+"302","Atherosclerosis W Mcc",20900
+"303","Atherosclerosis W/O Mcc",9200
+"304","Hypertension W Mcc",12500
+"305","Hypertension W/O Mcc",13600
+"306","Cardiac Congenital & Valvular Disorders W Mcc",12200
+"307","Cardiac Congenital & Valvular Disorders W/O Mcc",8200
+"308","Cardiac Arrhythmia & Conduction Disorders W Mcc",20000
+"309","Cardiac Arrhythmia & Conduction Disorders W Cc",13000
+"310","Cardiac Arrhythmia & Conduction Disorders W/O Cc/Mcc",11100
+"311","Angina Pectoris",8700
+"312","Syncope & Collapse",15200
+"313","Chest Pain",9700
+"314","Other Circulatory System Diagnoses W Mcc",26500
+"315","Other Circulatory System Diagnoses W Cc",23600
+"316","Other Circulatory System Diagnoses W/O Cc/Mcc",11000
+"326","Stomach, Esophageal & Duodenal Proc W Mcc",146000
+"327","Stomach, Esophageal & Duodenal Proc W Cc",85600
+"328","Stomach, Esophageal & Duodenal Proc W/O Cc/Mcc",177000
+"329","Major Small & Large Bowel Procedures W Mcc",143100
+"330","Major Small & Large Bowel Procedures W Cc",94600
+"331","Major Small & Large Bowel Procedures W/O Cc/Mcc",71200
+"333","Rectal Resection W Cc",30200
+"335","Peritoneal Adhesiolysis W Mcc",97200
+"336","Peritoneal Adhesiolysis W Cc",78900
+"337","Peritoneal Adhesiolysis W/O Cc/Mcc",48400
+"339","Appendectomy W Complicated Principal Diag W Cc",64500
+"340","Appendectomy W Complicated Principal Diag W/O Cc/Mcc",49600
+"342","Appendectomy W/O Complicated Principal Diag W Cc",51800
+"343","Appendectomy W/O Complicated Principal Diag W/O Cc/Mcc",38400
+"345","Minor Small & Large Bowel Procedures W Cc",27200
+"346","Minor Small & Large Bowel Procedures W/O Cc/Mcc",29300
+"348","Anal & Stomal Procedures W Cc",35700
+"351","Inguinal & Femoral Hernia Procedures W Cc",46500
+"352","Inguinal & Femoral Hernia Procedures W/O Cc/Mcc",35900
+"353","Hernia Procedures Except Inguinal & Femoral W Mcc",61000
+"354","Hernia Procedures Except Inguinal & Femoral W Cc",79100
+"355","Hernia Procedures Except Inguinal & Femoral W/O Cc/Mcc",34600
+"356","Other Digestive System O.R. Procedures W Mcc",42800
+"357","Other Digestive System O.R. Procedures W Cc",41700
+"358","Other Digestive System O.R. Procedures W/O Cc/Mcc",43600
+"368","Major Esophageal Disorders W Mcc",23800
+"369","Major Esophageal Disorders W Cc",16600
+"371","Major Gastrointestinal Disorders & Peritoneal Infections W Mcc",28700
+"372","Major Gastrointestinal Disorders & Peritoneal Infections W Cc",14000
+"373","Major Gastrointestinal Disorders & Peritoneal Infections W/O Cc/Mcc",14500
+"374","Digestive Malignancy W Mcc",15500
+"375","Digestive Malignancy W Cc",17100
+"376","Digestive Malignancy W/O Cc/Mcc",2700
+"377","G.I. Hemorrhage W Mcc",24700
+"378","G.I. Hemorrhage W Cc",16500
+"379","G.I. Hemorrhage W/O Cc/Mcc",13300
+"380","Complicated Peptic Ulcer W Mcc",26500
+"381","Complicated Peptic Ulcer W Cc",17100
+"382","Complicated Peptic Ulcer W/O Cc/Mcc",9500
+"383","Uncomplicated Peptic Ulcer W Mcc",21500
+"384","Uncomplicated Peptic Ulcer W/O Mcc",19500
+"385","Inflammatory Bowel Disease W Mcc",20900
+"386","Inflammatory Bowel Disease W Cc",22300
+"387","Inflammatory Bowel Disease W/O Cc/Mcc",22200
+"388","G.I. Obstruction W Mcc",24500
+"389","G.I. Obstruction W Cc",19100
+"390","G.I. Obstruction W/O Cc/Mcc",12400
+"391","Esophagitis, Gastroent & Misc Digest Disorders W Mcc",26300
+"392","Esophagitis, Gastroent & Misc Digest Disorders W/O Mcc",19600
+"393","Other Digestive System Diagnoses W Mcc",22400
+"394","Other Digestive System Diagnoses W Cc",15900
+"395","Other Digestive System Diagnoses W/O Cc/Mcc",15000
+"415","Cholecystectomy Except By Laparoscope W/O C.D.E. W Cc",91900
+"416","Cholecystectomy Except By Laparoscope W/O C.D.E. W/O Cc/Mcc",58400
+"417","Laparoscopic Cholecystectomy W/O C.D.E. W Mcc",74100
+"418","Laparoscopic Cholecystectomy W/O C.D.E. W Cc",58500
+"419","Laparoscopic Cholecystectomy W/O C.D.E. W/O Cc/Mcc",45300
+"420","Hepatobiliary Diagnostic Procedures W Mcc",44600
+"432","Cirrhosis & Alcoholic Hepatitis W Mcc",33100
+"433","Cirrhosis & Alcoholic Hepatitis W Cc",16000
+"434","Cirrhosis & Alcoholic Hepatitis W/O Cc/Mcc",6800
+"435","Malignancy Of Hepatobiliary System Or Pancreas W Mcc",28400
+"436","Malignancy Of Hepatobiliary System Or Pancreas W Cc",21400
+"437","Malignancy Of Hepatobiliary System Or Pancreas W/O Cc/Mcc",6200
+"438","Disorders Of Pancreas Except Malignancy W Mcc",29000
+"439","Disorders Of Pancreas Except Malignancy W Cc",18700
+"440","Disorders Of Pancreas Except Malignancy W/O Cc/Mcc",13300
+"441","Disorders Of Liver Except Malig,Cirr,Alc Hepa W Mcc",23300
+"442","Disorders Of Liver Except Malig,Cirr,Alc Hepa W Cc",15200
+"444","Disorders Of The Biliary Tract W Mcc",26400
+"445","Disorders Of The Biliary Tract W Cc",27600
+"446","Disorders Of The Biliary Tract W/O Cc/Mcc",17200
+"453","Combined Anterior/Posterior Spinal Fusion W Mcc",358700
+"454","Combined Anterior/Posterior Spinal Fusion W Cc",305100
+"455","Combined Anterior/Posterior Spinal Fusion W/O Cc/Mcc",279300
+"457","Spinal Fus Exc Cerv W Spinal Curv/Malig/Infec Or Ext Fus W Cc",299200
+"459","Spinal Fusion Except Cervical W Mcc",334400
+"460","Spinal Fusion Except Cervical W/O Mcc",233900
+"462","Bilateral Or Multiple Major Joint Procs Of Lower Extremity W/O Mcc",120700
+"464","Wnd Debrid & Skn Grft Exc Hand, For Musculo-Conn Tiss Dis W Cc",77200
+"465","Wnd Debrid & Skn Grft Exc Hand, For Musculo-Conn Tiss Dis W/O Cc/Mcc",91000
+"466","Revision Of Hip Or Knee Replacement W Mcc",191300
+"467","Revision Of Hip Or Knee Replacement W Cc",153600
+"468","Revision Of Hip Or Knee Replacement W/O Cc/Mcc",101100
+"469","Major Hip And Knee Joint Replacement Or Reattach. Of Lower Extremity W Mcc Or Tot. Ankle Replacement",74600
+"470","Major Hip And Knee Joint Replacement Or Reattach. Of Lower Extremity W/O Mcc",70200
+"471","Cervical Spinal Fusion W Mcc",208100
+"472","Cervical Spinal Fusion W Cc",211100
+"473","Cervical Spinal Fusion W/O Cc/Mcc",128900
+"475","Amputation For Musculoskeletal Sys & Conn Tissue Dis W Cc",43000
+"477","Biopsies Of Musculoskeletal System & Connective Tissue W Mcc",122700
+"478","Biopsies Of Musculoskeletal System & Connective Tissue W Cc",67600
+"479","Biopsies Of Musculoskeletal System & Connective Tissue W/O Cc/Mcc",59300
+"480","Hip & Femur Procedures Except Major Joint W Mcc",76800
+"481","Hip & Femur Procedures Except Major Joint W Cc",60100
+"482","Hip & Femur Procedures Except Major Joint W/O Cc/Mcc",50300
+"483","Major Joint/Limb Reattachment Procedure Of Upper Extremities",92400
+"485","Knee Procedures W Pdx Of Infection W Mcc",66600
+"486","Knee Procedures W Pdx Of Infection W Cc",57000
+"487","Knee Procedures W Pdx Of Infection W/O Cc/Mcc",27600
+"488","Knee Procedures W/O Pdx Of Infection W Cc/Mcc",55700
+"489","Knee Procedures W/O Pdx Of Infection W/O Cc/Mcc",35500
+"492","Lower Extrem & Humer Proc Except Hip,Foot,Femur W Mcc",73500
+"493","Lower Extrem & Humer Proc Except Hip,Foot,Femur W Cc",65400
+"494","Lower Extrem & Humer Proc Except Hip,Foot,Femur W/O Cc/Mcc",65400
+"495","Local Excision & Removal Int Fix Devices Exc Hip & Femur W Mcc",158400
+"496","Local Excision & Removal Int Fix Devices Exc Hip & Femur W Cc",27700
+"497","Local Excision & Removal Int Fix Devices Exc Hip & Femur W/O Cc/Mcc",51200
+"499","Local Excision & Removal Int Fix Devices Of Hip & Femur W/O Cc/Mcc",24000
+"500","Soft Tissue Procedures W Mcc",27000
+"501","Soft Tissue Procedures W Cc",33500
+"502","Soft Tissue Procedures W/O Cc/Mcc",42800
+"504","Foot Procedures W Cc",26000
+"505","Foot Procedures W/O Cc/Mcc",26300
+"512","Shoulder,Elbow Or Forearm Proc,Exc Major Joint Proc W/O Cc/Mcc",53300
+"513","Hand Or Wrist Proc, Except Major Thumb Or Joint Proc W Cc/Mcc",15200
+"514","Hand Or Wrist Proc, Except Major Thumb Or Joint Proc W/O Cc/Mcc",37900
+"515","Other Musculoskelet Sys & Conn Tiss O.R. Proc W Mcc",56600
+"516","Other Musculoskelet Sys & Conn Tiss O.R. Proc W Cc",47000
+"517","Other Musculoskelet Sys & Conn Tiss O.R. Proc W/O Cc/Mcc",36000
+"518","Back & Neck Proc Exc Spinal Fusion W Mcc Or Disc Device/Neurostim",161200
+"519","Back & Neck Proc Exc Spinal Fusion W Cc",37000
+"520","Back & Neck Proc Exc Spinal Fusion W/O Cc/Mcc",31100
+"534","Fractures Of Femur W/O Mcc",8900
+"535","Fractures Of Hip & Pelvis W Mcc",15200
+"536","Fractures Of Hip & Pelvis W/O Mcc",12300
+"539","Osteomyelitis W Mcc",17500
+"540","Osteomyelitis W Cc",10300
+"542","Pathological Fractures & Musculoskelet & Conn Tiss Malig W Mcc",25000
+"543","Pathological Fractures & Musculoskelet & Conn Tiss Malig W Cc",16500
+"544","Pathological Fractures & Musculoskelet & Conn Tiss Malig W/O Cc/Mcc",18900
+"545","Connective Tissue Disorders W Mcc",28400
+"546","Connective Tissue Disorders W Cc",9000
+"547","Connective Tissue Disorders W/O Cc/Mcc",1300
+"548","Septic Arthritis W Mcc",77900
+"549","Septic Arthritis W Cc",42400
+"550","Septic Arthritis W/O Cc/Mcc",22700
+"551","Medical Back Problems W Mcc",26700
+"552","Medical Back Problems W/O Mcc",17100
+"553","Bone Diseases & Arthropathies W Mcc",12300
+"554","Bone Diseases & Arthropathies W/O Mcc",10000
+"555","Signs & Symptoms Of Musculoskeletal System & Conn Tissue W Mcc",14900
+"556","Signs & Symptoms Of Musculoskeletal System & Conn Tissue W/O Mcc",16500
+"557","Tendonitis, Myositis & Bursitis W Mcc",16100
+"558","Tendonitis, Myositis & Bursitis W/O Mcc",16200
+"559","Aftercare, Musculoskeletal System & Connective Tissue W Mcc",35500
+"560","Aftercare, Musculoskeletal System & Connective Tissue W Cc",21000
+"561","Aftercare, Musculoskeletal System & Connective Tissue W/O Cc/Mcc",13800
+"562","Fx, Sprn, Strn & Disl Except Femur, Hip, Pelvis & Thigh W Mcc",9100
+"563","Fx, Sprn, Strn & Disl Except Femur, Hip, Pelvis & Thigh W/O Mcc",13000
+"565","Other Musculoskeletal Sys & Connective Tissue Diagnoses W Cc",9100
+"570","Skin Debridement W Mcc",48700
+"571","Skin Debridement W Cc",33100
+"579","Other Skin, Subcut Tiss & Breast Proc W Mcc",50300
+"580","Other Skin, Subcut Tiss & Breast Proc W Cc",32100
+"581","Other Skin, Subcut Tiss & Breast Proc W/O Cc/Mcc",19600
+"583","Mastectomy For Malignancy W/O Cc/Mcc",71600
+"592","Skin Ulcers W Mcc",16600
+"596","Major Skin Disorders W/O Mcc",4200
+"597","Malignant Breast Disorders W Mcc",6900
+"600","Non-Malignant Breast Disorders W Cc/Mcc",5900
+"601","Non-Malignant Breast Disorders W/O Cc/Mcc",10900
+"602","Cellulitis W Mcc",17300
+"603","Cellulitis W/O Mcc",16500
+"604","Trauma To The Skin, Subcut Tiss & Breast W Mcc",13000
+"605","Trauma To The Skin, Subcut Tiss & Breast W/O Mcc",6500
+"606","Minor Skin Disorders W Mcc",22600
+"607","Minor Skin Disorders W/O Mcc",36900
+"614","Adrenal & Pituitary Procedures W Cc/Mcc",53900
+"615","Adrenal & Pituitary Procedures W/O Cc/Mcc",53200
+"616","Amputat Of Lower Limb For Endocrine,Nutrit,& Metabol Dis W Mcc",32900
+"617","Amputat Of Lower Limb For Endocrine,Nutrit,& Metabol Dis W Cc",38200
+"622","Skin Grafts & Wound Debrid For Endoc, Nutrit & Metab Dis W Mcc",90200
+"623","Skin Grafts & Wound Debrid For Endoc, Nutrit & Metab Dis W Cc",30000
+"627","Thyroid, Parathyroid & Thyroglossal Procedures W/O Cc/Mcc",63600
+"628","Other Endocrine, Nutrit & Metab O.R. Proc W Mcc",41300
+"629","Other Endocrine, Nutrit & Metab O.R. Proc W Cc",69100
+"637","Diabetes W Mcc",20300
+"638","Diabetes W Cc",14200
+"639","Diabetes W/O Cc/Mcc",10800
+"640","Misc Disorders Of Nutrition,Metabolism,Fluids/Electrolytes W Mcc",17000
+"641","Misc Disorders Of Nutrition,Metabolism,Fluids/Electrolytes W/O Mcc",11600
+"642","Inborn And Other Disorders Of Metabolism",15400
+"643","Endocrine Disorders W Mcc",18600
+"644","Endocrine Disorders W Cc",16200
+"645","Endocrine Disorders W/O Cc/Mcc",8000
+"654","Major Bladder Procedures W Cc",61900
+"655","Major Bladder Procedures W/O Cc/Mcc",61700
+"657","Kidney & Ureter Procedures For Neoplasm W Cc",63400
+"658","Kidney & Ureter Procedures For Neoplasm W/O Cc/Mcc",59800
+"659","Kidney & Ureter Procedures For Non-Neoplasm W Mcc",39600
+"660","Kidney & Ureter Procedures For Non-Neoplasm W Cc",44100
+"661","Kidney & Ureter Procedures For Non-Neoplasm W/O Cc/Mcc",51900
+"666","Prostatectomy W Cc",42600
+"668","Transurethral Procedures W Mcc",37100
+"669","Transurethral Procedures W Cc",37400
+"670","Transurethral Procedures W/O Cc/Mcc",29300
+"671","Urethral Procedures W Cc/Mcc",36100
+"673","Other Kidney & Urinary Tract Procedures W Mcc",47300
+"674","Other Kidney & Urinary Tract Procedures W Cc",32900
+"682","Renal Failure W Mcc",18700
+"683","Renal Failure W Cc",13700
+"684","Renal Failure W/O Cc/Mcc",8800
+"686","Kidney & Urinary Tract Neoplasms W Mcc",1600
+"687","Kidney & Urinary Tract Neoplasms W Cc",11800
+"688","Kidney & Urinary Tract Neoplasms W/O Cc/Mcc",3900
+"689","Kidney & Urinary Tract Infections W Mcc",17700
+"690","Kidney & Urinary Tract Infections W/O Mcc",14400
+"691","Urinary Stones W Esw Lithotripsy W Cc/Mcc",40400
+"692","Urinary Stones W Esw Lithotripsy W/O Cc/Mcc",19300
+"693","Urinary Stones W/O Esw Lithotripsy W Mcc",42200
+"694","Urinary Stones W/O Esw Lithotripsy W/O Mcc",17400
+"696","Kidney & Urinary Tract Signs & Symptoms W/O Mcc",7200
+"698","Other Kidney & Urinary Tract Diagnoses W Mcc",21900
+"699","Other Kidney & Urinary Tract Diagnoses W Cc",17500
+"700","Other Kidney & Urinary Tract Diagnoses W/O Cc/Mcc",5400
+"707","Major Male Pelvic Procedures W Cc/Mcc",59400
+"708","Major Male Pelvic Procedures W/O Cc/Mcc",53400
+"716","Other Male Reproductive System O.R. Proc For Malignancy W/O Cc/Mcc",43300
+"723","Malignancy, Male Reproductive System W Cc",9400
+"726","Benign Prostatic Hypertrophy W/O Mcc",17900
+"727","Inflammation Of The Male Reproductive System W Mcc",49500
+"728","Inflammation Of The Male Reproductive System W/O Mcc",23500
+"735","Pelvic Evisceration, Rad Hysterectomy & Rad Vulvectomy W/O Cc/Mcc",65900
+"742","Uterine & Adnexa Proc For Non-Malignancy W Cc/Mcc",50800
+"743","Uterine & Adnexa Proc For Non-Malignancy W/O Cc/Mcc",44700
+"745","D&C, Conization, Laparoscopy & Tubal Interruption W/O Cc/Mcc",17200
+"747","Vagina, Cervix & Vulva Procedures W/O Cc/Mcc",33700
+"749","Other Female Reproductive System O.R. Procedures W Cc/Mcc",97800
+"755","Malignancy, Female Reproductive System W Cc",15900
+"758","Infections, Female Reproductive System W Cc",33300
+"759","Infections, Female Reproductive System W/O Cc/Mcc",20000
+"760","Menstrual & Other Female Reproductive System Disorders W Cc/Mcc",8900
+"765","Cesarean Section W Cc/Mcc",23500
+"766","Cesarean Section W/O Cc/Mcc",20300
+"767","Vaginal Delivery W Sterilization &/Or D&C",20700
+"768","Vaginal Delivery W O.R. Proc Except Steril &/Or D&C",6700
+"769","Postpartum & Post Abortion Diagnoses W O.R. Procedure",48700
+"774","Vaginal Delivery W Complicating Diagnoses",8600
+"775","Vaginal Delivery W/O Complicating Diagnoses",8000
+"776","Postpartum & Post Abortion Diagnoses W/O O.R. Procedure",9800
+"777","Ectopic Pregnancy",62900
+"778","Threatened Abortion",2400
+"779","Abortion W/O D&C",5400
+"781","Other Antepartum Diagnoses W Medical Complications",12000
+"782","Other Antepartum Diagnoses W/O Medical Complications",3100
+"789","Neonates, Died Or Transferred To Another Acute Care Facility",2400
+"790","Extreme Immaturity Or Respiratory Distress Syndrome, Neonate",4800
+"791","Prematurity W Major Problems",4700
+"792","Prematurity W/O Major Problems",5600
+"793","Full Term Neonate W Major Problems",4000
+"794","Neonate W Other Significant Problems",3100
+"795","Normal Newborn",2500
+"803","Other O.R. Proc Of The Blood & Blood Forming Organs W Cc",38500
+"808","Major Hematol/Immun Diag Exc Sickle Cell Crisis & Coagul W Mcc",16800
+"809","Major Hematol/Immun Diag Exc Sickle Cell Crisis & Coagul W Cc",15700
+"810","Major Hematol/Immun Diag Exc Sickle Cell Crisis & Coagul W/O Cc/Mcc",12700
+"811","Red Blood Cell Disorders W Mcc",16600
+"812","Red Blood Cell Disorders W/O Mcc",12500
+"813","Coagulation Disorders",28300
+"814","Reticuloendothelial & Immunity Disorders W Mcc",28300
+"815","Reticuloendothelial & Immunity Disorders W Cc",33200
+"824","Lymphoma & Non-Acute Leukemia W Other Proc W Cc",117800
+"834","Acute Leukemia W/O Major O.R. Procedure W Mcc",33000
+"835","Acute Leukemia W/O Major O.R. Procedure W Cc",4900
+"840","Lymphoma & Non-Acute Leukemia W Mcc",17300
+"841","Lymphoma & Non-Acute Leukemia W Cc",19700
+"843","Other Myeloprolif Dis Or Poorly Diff Neopl Diag W Mcc",19400
+"844","Other Myeloprolif Dis Or Poorly Diff Neopl Diag W Cc",33600
+"845","Other Myeloprolif Dis Or Poorly Diff Neopl Diag W/O Cc/Mcc",500
+"847","Chemotherapy W/O Acute Leukemia As Secondary Diagnosis W Cc",43900
+"853","Infectious & Parasitic Diseases W O.R. Procedure W Mcc",85600
+"854","Infectious & Parasitic Diseases W O.R. Procedure W Cc",74000
+"855","Infectious & Parasitic Diseases W O.R. Procedure W/O Cc/Mcc",23400
+"857","Postoperative Or Post-Traumatic Infections W O.R. Proc W Cc",50000
+"862","Postoperative & Post-Traumatic Infections W Mcc",30900
+"863","Postoperative & Post-Traumatic Infections W/O Mcc",12300
+"864","Fever And Inflammatory Conditions",12200
+"865","Viral Illness W Mcc",17300
+"866","Viral Illness W/O Mcc",12300
+"867","Other Infectious & Parasitic Diseases Diagnoses W Mcc",33000
+"868","Other Infectious & Parasitic Diseases Diagnoses W Cc",14000
+"870","Septicemia Or Severe Sepsis W Mv >96 Hours Or Peripheral Extracorporeal Membrane Oxygenation (Ecmo)",110200
+"871","Septicemia Or Severe Sepsis W/O Mv >96 Hours W Mcc",23400
+"872","Septicemia Or Severe Sepsis W/O Mv >96 Hours W/O Mcc",17500
+"880","Acute Adjustment Reaction & Psychosocial Dysfunction",13100
+"881","Depressive Neuroses",9100
+"882","Neuroses Except Depressive",7900
+"884","Organic Disturbances & Intellectual Disability",18600
+"885","Psychoses",11900
+"886","Behavioral & Developmental Disorders",10500
+"894","Alcohol/Drug Abuse Or Dependence, Left Ama",7200
+"896","Alcohol/Drug Abuse Or Dependence W/O Rehabilitation Therapy W Mcc",15200
+"897","Alcohol/Drug Abuse Or Dependence W/O Rehabilitation Therapy W/O Mcc",10100
+"907","Other O.R. Procedures For Injuries W Mcc",64900
+"908","Other O.R. Procedures For Injuries W Cc",89200
+"909","Other O.R. Procedures For Injuries W/O Cc/Mcc",79900
+"913","Traumatic Injury W Mcc",14700
+"915","Allergic Reactions W Mcc",21500
+"916","Allergic Reactions W/O Mcc",29800
+"917","Poisoning & Toxic Effects Of Drugs W Mcc",19900
+"918","Poisoning & Toxic Effects Of Drugs W/O Mcc",10100
+"919","Complications Of Treatment W Mcc",15000
+"920","Complications Of Treatment W Cc",18600
+"921","Complications Of Treatment W/O Cc/Mcc",14500
+"922","Other Injury, Poisoning & Toxic Effect Diag W Mcc",37300
+"923","Other Injury, Poisoning & Toxic Effect Diag W/O Mcc",14400
+"940","O.R. Proc W Diagnoses Of Other Contact W Health Services W Cc",34900
+"941","O.R. Proc W Diagnoses Of Other Contact W Health Services W/O Cc/Mcc",52600
+"947","Signs & Symptoms W Mcc",12600
+"948","Signs & Symptoms W/O Mcc",11400
+"949","Aftercare W Cc/Mcc",15500
+"950","Aftercare W/O Cc/Mcc",12400
+"951","Other Factors Influencing Health Status",7600
+"956","Limb Reattachment, Hip & Femur Proc For Multiple Significant Trauma",61100
+"963","Other Multiple Significant Trauma W Mcc",72600
+"964","Other Multiple Significant Trauma W Cc",7500
+"974","Hiv W Major Related Condition W Mcc",64500
+"977","Hiv W Or W/O Other Related Condition",23000
+"981","Extensive O.R. Procedure Unrelated To Principal Diagnosis W Mcc",71100
+"982","Extensive O.R. Procedure Unrelated To Principal Diagnosis W Cc",39800
+"983","Extensive O.R. Procedure Unrelated To Principal Diagnosis W/O Cc/Mcc",33300
+"987","Non-Extensive O.R. Proc Unrelated To Principal Diagnosis W Mcc",54600
+"988","Non-Extensive O.R. Proc Unrelated To Principal Diagnosis W Cc",36300
+"989","Non-Extensive O.R. Proc Unrelated To Principal Diagnosis W/O Cc/Mcc",28900
