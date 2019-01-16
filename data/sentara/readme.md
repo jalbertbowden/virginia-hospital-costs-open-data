@@ -1,6 +1,9 @@
 # ![Sentara](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/sentara-logotype-x512.png)  
 # Sentara  
-
+[Sentara Pricing Transparency Hampton Roads Northern VA - Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/sentara/sentara-hospital-charges-pricing-transparency-hampton-roads-northern-virginia-2019-01-data.csv)  
+[Sentara Pricing Transparency Hampton Roads Northern VA - Notes](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/sentara/sentara-hospital-charges-pricing-transparency-hampton-roads-northern-virginia-2019-01-notes.csv)  
+[Sentara Hospital Charges Transparency Sentara Martha Jefferson Hospital - Data](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/sentara/sentara-hospital-charges-pricing-transparency-martha-jefferson-hospital-2019-01-data.csv)  
+[Sentara Hospital Charges Transparency Sentara Martha Jefferson Hospital - Notes](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/sentara/sentara-hospital-charges-pricing-transparency-martha-jefferson-hospital-2019-01-notes.csv)  
 [Sentara Pricing Transparency Hampton Roads Northern VA](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/sentara/sentara-hospital-charges-pricing-transparency-hampton-roads-northern-virginia-2019-01.csv)  
 [Sentara Hospital Charges Transparency Sentara Martha Jefferson Hospital](https://github.com/jalbertbowden/virginia-hospital-costs-open-data/blob/master/data/sentara/sentara-hospital-charges-pricing-transparency-martha-jefferson-hospital-2019-01.csv)  
 ## Reference:  
