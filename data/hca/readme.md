@@ -48,22 +48,22 @@
 [Detail Price List](https://lewisgale.com/about/legal/detail-price-list.dot)  
 [Locations (.json)](https://core.secure.ehc.com/src/tools/services/locations-controller.dot?serviceId=&host=67712471-06d2-4e88-8bcd-7a3f3a18e194&facilityUrl=&pullFrom=Auto&pullFromHost=Auto&marketId=&starRatings=false&showOnly=&state=&region=&division=&tag=&facilityTags=)  
 
-### ![LewisGale Medical Center](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-medical-center-logotype-bw.png)  
+### ![LewisGale Medical Center](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-medical-center-logotype-bw-bg.png)  
 ### [LewisGale Medical Center](https://lewisgale.com/location/lewisgale-medical-center)  
 [detailed price list](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleMedicalCenter_CM.csv)  
 [average procedure price report](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleMedicalCenter_DRG.csv)  
 
-### ![LewisGale Hospital Alleghany](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-alleghany-logotype-bw.png)  
+### ![LewisGale Hospital Alleghany](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-alleghany-logotype-bw-bg.png)  
 ### [LewisGale Hospital Alleghany](https://lewisgale.com/location/lewisgale-hospital-alleghany)  
 [detailed price list](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleHospital-Alleghany_CM.csv)  
 [average procedure price report](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleHospital-Alleghany_DRG.csv)  
 
-### ![LewisGale Hospital Pulaski](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-pulaski-logotype-bw.png)  
+### ![LewisGale Hospital Pulaski](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-pulaski-logotype-bw-bg.png)  
 ### [LewisGale Hospital Pulaski](https://lewisgale.com/location/lewisgale-hospital-pulaski)  
 [detailed price list](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleHospital-Pulaski_CM.csv)  
 [average procedure price report](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleHospital-Pulaski_DRG.csv)  
 
-### ![LewisGale Hospital Montgomery](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-montgomery-logotype-bw.png)  
+### ![LewisGale Hospital Montgomery](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/lewis-gale-hospital-montgomery-logotype-bw-bg.png)  
 ### [LewisGale Hospital Montgomery](https://lewisgale.com/location/lewisgale-hospital-montgomery)  
 [detailed price list](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleHospital-Montgomery_CM.csv)  
 [average procedure price report](https://core.secure.ehc.com/src/util/detail-price-list/CapitalDivision_LewisgaleHospital-Montgomery_DRG.csv)  
