@@ -1,4 +1,4 @@
-# ![Sentara](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/sentara-logo.svg)  
+# ![Sentara](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/sentara-logo.ngg)  
 # Sentara  
 
 ## Reference:  
