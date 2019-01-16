@@ -1,0 +1,206 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "6d4b7dc5-9a53-4602-a342-df73e4a77123"
+						,"Title": "Choices Adolescent Intensive Outpatient Program-Falls Church"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "6565 Arlington Blvd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22042"
+						,"PrimaryPhone": "(703) 720-5527"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.869783"
+						,"Longitude": "-77.17036970000004"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[ Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "81537c68-e8a3-4d89-b700-0d64efc1983a"
+						,"Title": "Choices Adult Partial Program-Falls Church"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "6565 Arlington Blvd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22042"
+						,"PrimaryPhone": "(703) 538-2872"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.869783"
+						,"Longitude": "-77.17036970000004"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[ Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "2c000290-dce8-4ec8-aeaf-17f4264b2879"
+						,"Title": "Choices Outpatient Services - Chantilly"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "14501 George Carter Way"
+						,"Address2": ""
+						,"City": "Chantilly"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20151"
+						,"PrimaryPhone": ""
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.8878739"
+						,"Longitude": "-77.44809329999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "7fdfb367-bf8d-48ac-837c-b422585b3cc1"
+						,"Title": "Dominion Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "2960 Sleepy Hollow Rd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "22044"
+						,"PrimaryPhone": "(703) 536-2000"
+						,"Fax": "(703) 533-9650"
+						,"AdditionalText": ""
+						,"Latitude": "38.870074"
+						,"Longitude": "-77.15837429999999"
+						,"Photo1": "ab1a5537-7a08-4e91-b048-5158f6518cb6"
+						,"Photo2": "7b5db192-5d35-4baf-a27f-bdb98472e717"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": ""
+						,"Link": "http://dominionhospital.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "06a1e8d1-15fe-4019-ba64-e6fe109dea48"
+						,"Title": "Reflections Eating Disorder Treatment Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "2960 Sleepy Hollow Rd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22044"
+						,"PrimaryPhone": "(703) 538-2886"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.870074"
+						,"Longitude": "-77.15837429999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[ Hospital]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

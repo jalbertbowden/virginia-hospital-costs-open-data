@@ -1,0 +1,282 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "fbe465a9-b7f8-4f0f-9061-fa7f349ec2e9"
+						,"Title": "Appomattox Imaging Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "930 South Ave"
+						,"Address2": "Suite 1"
+						,"City": "Colonial Heights"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23834"
+						,"PrimaryPhone": "(804) 524-2340"
+						,"Fax": "(804) 520-6202"
+						,"AdditionalText": ""
+						,"Latitude": "37.2428451"
+						,"Longitude": "-77.38998200000003"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": "http://www.hcavaopimaging.com/appomattox-imaging-center/"
+						,"CtaButton": ""
+						,"SortOrder": "2"
+						,"Hours": "Mon - Fri: 8:00am - 5:00pm"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "c9e960ed-cb2c-4887-acf7-4e766468055c"
+						,"Title": "Colonial Heights Surgery Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "930 South Ave"
+						,"Address2": "Suite 2"
+						,"City": "Colonial Heights"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23834"
+						,"PrimaryPhone": "(804) 520-8272"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.2428451"
+						,"Longitude": "-77.38998200000003"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Surgery_Center]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "2"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "b0c935cb-3daf-4956-abe1-4f5bdbf8137f"
+						,"Title": "John Randolph Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "411 West Randolph Rd"
+						,"Address2": ""
+						,"City": "Hopewell"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23860"
+						,"PrimaryPhone": "(804) 541-1600"
+						,"Fax": ""
+						,"AdditionalText": "A 147-bed facility committed and dedicated to serving the entire Tri-Cities Region."
+						,"Latitude": "37.3070786"
+						,"Longitude": "-77.2914877"
+						,"Photo1": "3021bb6f-d22f-454d-a3d7-e897b39ed606"
+						,"Photo2": "93c572e9-64a1-4269-a3e1-fc44531ba2c3"
+						,"BackgroundImage": ""
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "John Randolph"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "75bc3827-b749-4f21-aa76-31ffd510fef2"
+						,"Title": "Primary Health Group - Hopewell"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "308 North 6th Ave"
+						,"Address2": ""
+						,"City": "Hopewell"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23860"
+						,"PrimaryPhone": "(804) 458-8535"
+						,"Fax": "(804) 541-7851"
+						,"AdditionalText": ""
+						,"Latitude": "37.3036382"
+						,"Longitude": "-77.2929039"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://phg-hopewell.com/"
+						,"CtaButton": ""
+						,"SortOrder": "3"
+						,"Hours": "Mon - Fri: 7:00am - 5:00pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "cebebb4f-2dd2-40c4-a52a-123be473a022"
+						,"Title": "Primary Health Group – Appomattox"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "930 South Ave"
+						,"Address2": "Suite 11"
+						,"City": "Colonial Heights"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23834"
+						,"PrimaryPhone": "(804) 504-8025"
+						,"Fax": "(804) 504-8026"
+						,"AdditionalText": ""
+						,"Latitude": "37.2428451"
+						,"Longitude": "-77.38998200000003"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://phg-appomattox.com/"
+						,"CtaButton": ""
+						,"SortOrder": "3"
+						,"Hours": "Mon - Fri: 8:00am - 5:00pm"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "fa676063-1a9b-4af6-b8bc-dcd47a2a0754"
+						,"Title": "TriCities Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#385278"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "1700 Temple Pkwy"
+						,"Address2": ""
+						,"City": "Prince George"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23875"
+						,"PrimaryPhone": "(804) 722-1300"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.2506504"
+						,"Longitude": "-77.3706732"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/fa676063-1a9b-4af6-b8bc-dcd47a2a0754/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": ""
+						,"Link": "http://tricitieser.com/"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

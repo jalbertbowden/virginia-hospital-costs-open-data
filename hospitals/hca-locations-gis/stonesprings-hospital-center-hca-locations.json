@@ -1,0 +1,279 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "7000c783-bd67-495e-8d89-ab2fa575f19a"
+						,"Title": "Dominion Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "2960 Sleepy Hollow Rd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22044"
+						,"PrimaryPhone": "(703) 536-2000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.870074"
+						,"Longitude": "-77.15837429999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/7000c783-bd67-495e-8d89-ab2fa575f19a/backgroundImage"
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": ""
+						,"Link": "http://dominionhospital.com"
+						,"CtaButton": ""
+						,"SortOrder": "2"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "f9ded98a-30d6-47fa-8b8a-95bcbe0c601e"
+						,"Title": "Medical Office Building"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "24430 Stone Springs Blvd"
+						,"Address2": ""
+						,"City": "Dulles"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20166"
+						,"PrimaryPhone": ""
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9413477"
+						,"Longitude": "-77.54412489999999"
+						,"Photo1": "573d9332-c18e-49f8-8bcd-17155363ab57"
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Medical_Office_Building]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "b71d58b4-4bf1-448d-84dd-31a0dce1de56"
+						,"Title": "Sterling at Cascades"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "46200 Potomac Run Plaza"
+						,"Address2": ""
+						,"City": "Sterling"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20164"
+						,"PrimaryPhone": "(571) 313-5087"
+						,"Fax": "(703) 430-1232"
+						,"AdditionalText": ""
+						,"Latitude": "39.0262288"
+						,"Longitude": "-77.4017088"
+						,"Photo1": ""
+						,"Photo2": "5e3f5735-1fc8-48fc-82e3-e74036cb6d40"
+						,"BackgroundImage": "/contentAsset/raw-data/b71d58b4-4bf1-448d-84dd-31a0dce1de56/backgroundImage"
+						,"BuildingType": "[Urgent_Care]"
+						,"ErFeed": ""
+						,"Link": "https://www.carenow.com/locations/"
+						,"CtaButton": "<i class='icon-ok'></i>  Web Check-In®|https://wci.carenow.com/#/home/143"
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+				
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+								
+      
+      
+  
+  
+																																																																																																																																																																																																															
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "1dba4ca1-e0f1-4fc5-b4ac-fa41fa3ad696"
+						,"Title": "Sterling Park"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "101 Enterprise St."
+						,"Address2": ""
+						,"City": "Sterling"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20164"
+						,"PrimaryPhone": ""
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9988944"
+						,"Longitude": "-77.4031474"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/1dba4ca1-e0f1-4fc5-b4ac-fa41fa3ad696/backgroundImage"
+						,"BuildingType": "[Urgent_Care]"
+						,"ErFeed": ""
+						,"Link": "https://www.carenow.com/locations/"
+						,"CtaButton": "Web Check-In®|https://wci.carenow.com/#/home/154"
+						,"SortOrder": "0"
+						,"Hours": "<table width='100%'><tr><td width='40%'>Sunday:</td><td>8:00AM - 5:00PM</td></tr><tr><td width='40%'>Monday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Tuesday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Wednesday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Thursday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Friday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Saturday:</td><td>8:00AM - 8:00PM</td></tr></table>"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "64045293-e142-49c4-b194-bbe120fe95b1"
+						,"Title": "StoneSprings Hospital Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "24440 Stone Springs Blvd"
+						,"Address2": ""
+						,"City": "Dulles"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "20166"
+						,"PrimaryPhone": "(571) 349-4000"
+						,"Fax": ""
+						,"AdditionalText": "124-bed facility serving Loudoun County and Northern Virginia."
+						,"Latitude": "38.9403164"
+						,"Longitude": "-77.54056650000001"
+						,"Photo1": "573d9332-c18e-49f8-8bcd-17155363ab57"
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/64045293-e142-49c4-b194-bbe120fe95b1/backgroundImage"
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "StoneSprings Hospital Center"
+						,"Link": "http://stonespringshospital.com/"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "5580431f-65be-4a18-be02-dc2e762d0ff5"
+						,"Title": "StoneSprings Pediatric ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "24440 Stone Springs Blvd."
+						,"Address2": ""
+						,"City": "Dulles"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20166"
+						,"PrimaryPhone": "(571) 349-4000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9409332"
+						,"Longitude": "-77.54306859999997"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/5580431f-65be-4a18-be02-dc2e762d0ff5/backgroundImage"
+						,"BuildingType": "[ER]"
+						,"ErFeed": "StoneSprings Peds Hospital"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "3"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

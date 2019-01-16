@@ -1,0 +1,766 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "0829de62-35f6-4d0f-896f-c3328dc0615d"
+						,"Title": "Cave Spring ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2706 Ogden Rd"
+						,"Address2": ""
+						,"City": "Cave Spring"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24018"
+						,"PrimaryPhone": "(540) 970-8000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.227074"
+						,"Longitude": "-79.98053099999998"
+						,"Photo1": "893991f9-8b71-4c46-bb06-76430f7c9215"
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": ""
+						,"Link": "https://lewisgale.com/service/cave-spring-er"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "3ef05461-bc2d-400d-b3fe-49cbc86e6ca5"
+						,"Title": "Chippenham Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7101 Jahnke Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23225"
+						,"PrimaryPhone": "(804) 320-3911"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.515683"
+						,"Longitude": "-77.526097"
+						,"Photo1": "95fa18ce-b3d8-46cb-b8df-faada9e58010"
+						,"Photo2": "7a9fd466-f933-4939-8861-c75878106df5"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Chippenham"
+						,"Link": "http://chippenhammed.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "47db5414-52bb-48e7-8d65-33051d60680d"
+						,"Title": "Dominion Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2960 Sleepy Hollow Rd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22044"
+						,"PrimaryPhone": "(703) 538-2872"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.870074"
+						,"Longitude": "-77.1583743"
+						,"Photo1": "98959ee9-7c5b-49e6-8f0d-c963d5dbe965"
+						,"Photo2": "0e870448-e83d-4b50-a334-8f43d0df0004"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": ""
+						,"Link": "http://dominionhospital.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "23ba1566-a443-458f-93b0-432d7c92675a"
+						,"Title": "Hanover Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "9275 Chamberlayne Rd"
+						,"Address2": ""
+						,"City": "Mechanicsville"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23116"
+						,"PrimaryPhone": "(804) 417-0300"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.65199310000001"
+						,"Longitude": "-77.39902760000001"
+						,"Photo1": "2c15cbcd-613e-4d9c-b7f7-d703df881777"
+						,"Photo2": "b7f4e71e-7bc7-4201-a193-5a4670ea842c"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "Henrico Hanover"
+						,"Link": "http://hanoverer.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "39739ee0-43e7-4e16-b0bf-d36aeafe9e08"
+						,"Title": "Henrico Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1602 Skipwith Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 289-4500"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6045913"
+						,"Longitude": "-77.5392873"
+						,"Photo1": "aa1fbba1-b22b-451b-8aa8-31bb728908ae"
+						,"Photo2": "98b698c7-7222-4a7e-88af-e9150c1eb09e"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Henrico"
+						,"Link": "http://henricodoctors.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "0b2b82a1-4aec-4fbb-ad2a-a4bfd0e69cf9"
+						,"Title": "John Randolph Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "411 West Randolph Rd"
+						,"Address2": ""
+						,"City": "Hopewell"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23860"
+						,"PrimaryPhone": "(804) 541-1600"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.3070611"
+						,"Longitude": "-77.2915085"
+						,"Photo1": "8937dc7e-03a8-4c99-b03b-67c7bae6a0d0"
+						,"Photo2": "b40dabcd-0e6f-40b2-9edc-29e9794e7cfb"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "John Randolph"
+						,"Link": "http://hcavirginia.com/location/john-randolph-medical-center"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "71ebb240-f1d6-40df-8420-e7e669f8fc39"
+						,"Title": "Johnston-Willis Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1401 Johnston-Willis Dr"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23235"
+						,"PrimaryPhone": "(804) 330-2000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.510935"
+						,"Longitude": "-77.595502"
+						,"Photo1": "bae11363-bb47-4f27-840f-0a951db1f2d3"
+						,"Photo2": "2160c76f-09a8-47dc-b646-5ee89a8b22d9"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Johnston-Willis"
+						,"Link": "http://johnstonwillismed.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "14447d2b-c850-4d65-b6d1-449547df6595"
+						,"Title": "LewisGale Hospital Alleghany"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1 ARH Ln"
+						,"Address2": ""
+						,"City": "Low Moor"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24457"
+						,"PrimaryPhone": "(540) 862-6879"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.7911347"
+						,"Longitude": "-79.8826878"
+						,"Photo1": "1169bd22-d56e-48d1-8cff-56422cdd1ccb"
+						,"Photo2": "1169bd22-d56e-48d1-8cff-56422cdd1ccb"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Alleghany"
+						,"Link": "http://lewisgale.com/location/lewisgale-hospital-alleghany"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "36dfc87d-856c-410a-84da-e0ee79d45b67"
+						,"Title": "LewisGale Hospital Montgomery"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "3700 S Main St"
+						,"Address2": ""
+						,"City": "Blacksburg"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24060"
+						,"PrimaryPhone": "(540) 951-1111"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.1878"
+						,"Longitude": "-80.4111"
+						,"Photo1": "b282db42-5381-415d-a4f1-431243d52ebe"
+						,"Photo2": "b282db42-5381-415d-a4f1-431243d52ebe"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Montgomery"
+						,"Link": "http://lewisgale.com/location/lewisgale-hospital-montgomery"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "03e6be22-9d6c-41a5-8245-01d0ef092623"
+						,"Title": "LewisGale Hospital Pulaski"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2400 Lee Hwy"
+						,"Address2": ""
+						,"City": "Pulaski"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24301"
+						,"PrimaryPhone": "(540) 994-8509"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.068132"
+						,"Longitude": "-80.756851"
+						,"Photo1": "c9bbba4b-a7a5-43c6-8efb-006574608b7f"
+						,"Photo2": "c9bbba4b-a7a5-43c6-8efb-006574608b7f"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Pulaski"
+						,"Link": "http://lewisgale.com/location/lewisgale-hospital-pulaski"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "6a7973ec-2796-4538-9067-a9ac7a0f8e9c"
+						,"Title": "LewisGale Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1900 Electric Rd"
+						,"Address2": ""
+						,"City": "Salem"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24153"
+						,"PrimaryPhone": "(540) 776-4000"
+						,"Fax": "(540) 953-5372"
+						,"AdditionalText": ""
+						,"Latitude": "37.263689"
+						,"Longitude": "-80.031392"
+						,"Photo1": "6272038a-a3c9-49ea-96dd-1f4eccffd9e3"
+						,"Photo2": "7777d17d-7a4f-4d29-be54-3cef0412ad68"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "LewisGale"
+						,"Link": "http://lewisgale.com/location/lewisgale-medical-center"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "42e209ef-0b36-4b70-83e6-2b9d00c79ef2"
+						,"Title": "Parham Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7700 East Parham Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23294"
+						,"PrimaryPhone": "(804) 747-5600"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.631685"
+						,"Longitude": "-77.525467"
+						,"Photo1": "7bf3d35d-ee06-4c21-a118-13046e981796"
+						,"Photo2": "c860b0f9-ba08-4235-a272-97fccafec493"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Parham"
+						,"Link": "http://parhamdoctors.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "c6ca419c-427c-478f-87e5-474de8d139ef"
+						,"Title": "Reston Hospital Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1850 Town Center Pkwy"
+						,"Address2": ""
+						,"City": "Reston"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20190"
+						,"PrimaryPhone": "(703) 689-9000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9620961"
+						,"Longitude": "-77.3641967"
+						,"Photo1": "9f946551-77ba-4579-aaab-7d0cbddc7c5b"
+						,"Photo2": "2cb33d3f-7c2e-4e90-8d86-afe6ced25bdc"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Reston Hospital"
+						,"Link": "http://restonhospital.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "51c6b194-f3ef-443a-8848-a1d76210346b"
+						,"Title": "Retreat Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2621 Grove Ave"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23220"
+						,"PrimaryPhone": "(804) 254-5100"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.553758"
+						,"Longitude": "-77.472943"
+						,"Photo1": "3c161d62-3037-4dcf-9ed4-afacd15f82f0"
+						,"Photo2": "696dfbab-0abb-49f0-819a-f5d3cb6d4c66"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Retreat"
+						,"Link": "http://hcavirginia.com/location/retreat-doctors-hospital"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "524614ab-fc2f-432f-9256-e81ffe44add7"
+						,"Title": "Spotsylvania Regional Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "4600 Spotsylvania Pkwy"
+						,"Address2": ""
+						,"City": "Fredericksburg"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22408"
+						,"PrimaryPhone": "(540) 498-4000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.2197743"
+						,"Longitude": "-77.5020187"
+						,"Photo1": "be9245bf-8655-4fe9-88cf-0eef5599ff34"
+						,"Photo2": "54089e64-beb5-4612-ba1c-2055e1167e32"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Spotsylvania"
+						,"Link": "http://spotsrmc.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "efa77aa9-390a-4a2f-9325-4b1b2971563b"
+						,"Title": "StoneSprings Hospital Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "24440 Stone Springs Blvd"
+						,"Address2": ""
+						,"City": "Dulles"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20166"
+						,"PrimaryPhone": "(571) 349-4000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9403164"
+						,"Longitude": "-77.5405665"
+						,"Photo1": "d4824c98-a5c9-406d-a068-5a597bedfea1"
+						,"Photo2": "ca45151f-0e0d-4e34-b584-5f2e05b00c6a"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "StoneSprings Hospital Center"
+						,"Link": "http://stonespringshospital.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "90b33739-5276-41aa-b23e-ca2700b09b11"
+						,"Title": "Swift Creek Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "14720 Hancock Village Street"
+						,"Address2": ""
+						,"City": "Chesterfield"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23832"
+						,"PrimaryPhone": "(804) 818-7750"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.4020235"
+						,"Longitude": "-77.6771084"
+						,"Photo1": "a42cf7a6-e2c1-4f85-aa13-8a6ce7075dde"
+						,"Photo2": "26d20786-ccab-4489-8844-c0802db5157d"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "Swift Creek ER"
+						,"Link": "http://swiftcreeker.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "2bf6e721-3b5f-4ddc-a867-278982dce582"
+						,"Title": "TriCities ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1700 Temple Pkwy"
+						,"Address2": ""
+						,"City": "Prince George"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23875"
+						,"PrimaryPhone": "(804) 722-1300"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.2509495"
+						,"Longitude": "-77.37111290000001"
+						,"Photo1": "0a4967d7-5433-4976-aefe-8efbfb41bca5"
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": ""
+						,"Link": "https://tricitieser.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "cfe6cc1a-cf56-4f95-8a2e-b4b0199f0cf3"
+						,"Title": "West Creek Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "12720 Tuckahoe Creek Ct"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23238"
+						,"PrimaryPhone": "(804) 784-1000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6254637"
+						,"Longitude": "-77.6602215"
+						,"Photo1": "11f298a1-c70b-4c9b-9b03-a4224dab20b6"
+						,"Photo2": "082c88e5-853d-45e0-83fc-420c867424bc"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "West Creek"
+						,"Link": "http://hcavirginia.com/location/west-creek-emergency-center"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

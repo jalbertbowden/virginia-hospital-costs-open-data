@@ -1,0 +1,86 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "a75b7d2c-6e39-48b6-948c-82b63935d540"
+						,"Title": "Hanover Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "9275 Chamberlayne Rd"
+						,"Address2": ""
+						,"City": "Mechanicsville"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23116"
+						,"PrimaryPhone": "(804) 417-0300"
+						,"Fax": ""
+						,"AdditionalText": "A full-service ER open 24/7 for all family emergency healthcare needs."
+						,"Latitude": "37.65199310000001"
+						,"Longitude": "-77.39902760000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/a75b7d2c-6e39-48b6-948c-82b63935d540/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "Henrico Hanover"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "3f5b3517-1f0e-4e77-8b81-9d0a35b5ce51"
+						,"Title": "Parham Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7700 East Parham Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23294"
+						,"PrimaryPhone": "(804) 747-5600"
+						,"Fax": ""
+						,"AdditionalText": "A 200-bed acute-care facility serving Central Virginia."
+						,"Latitude": "37.631685"
+						,"Longitude": "-77.52546699999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/3f5b3517-1f0e-4e77-8b81-9d0a35b5ce51/backgroundImage"
+						,"BuildingType": "[Behavioral_Health, ER, Hospital]"
+						,"ErFeed": "Parham"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

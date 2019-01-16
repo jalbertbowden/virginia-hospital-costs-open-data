@@ -1,0 +1,126 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "e8b4059e-3824-4d5f-b86c-6958548d4dfe"
+						,"Title": "Primary Health Group - Retreat"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "110 North Robinson St"
+						,"Address2": "Suite 400"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23220"
+						,"PrimaryPhone": "(804) 822-3480"
+						,"Fax": "(804) 822-3484"
+						,"AdditionalText": ""
+						,"Latitude": "37.5534549"
+						,"Longitude": "-77.47312469999997"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/e8b4059e-3824-4d5f-b86c-6958548d4dfe/backgroundImage"
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://phgretreat.com/"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "080ef290-f0b5-4260-b464-6a6b7c0497ca"
+						,"Title": "Retreat Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2621 Grove Ave"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23220"
+						,"PrimaryPhone": "(804) 254-5100"
+						,"Fax": ""
+						,"AdditionalText": "A 226-bed facility offering 24/7 Adult and Pediatric Emergency care"
+						,"Latitude": "37.5538649"
+						,"Longitude": "-77.472804"
+						,"Photo1": "f286c402-f3bf-46f7-81bb-0f1f09183273"
+						,"Photo2": "019b93b8-04ed-4829-a87b-fcb75a746dc9"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Behavioral_Health, ER, Hospital]"
+						,"ErFeed": "Retreat"
+						,"Link": "http://retreatdoctors.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "50181880-6013-48bb-84aa-b4bbe17fb558"
+						,"Title": "Richmond Family Practice"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "425 N Blvd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23220"
+						,"PrimaryPhone": "(804) 358-0248"
+						,"Fax": "(804) 358-9477"
+						,"AdditionalText": ""
+						,"Latitude": "37.5310238"
+						,"Longitude": "-77.40645469999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://richmondfamilypractice.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

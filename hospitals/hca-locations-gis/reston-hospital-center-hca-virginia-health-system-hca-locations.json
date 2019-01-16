@@ -1,0 +1,359 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "c7ea56f5-c1fe-4877-8a3d-832152f423c3"
+						,"Title": "Dominion Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2960 Sleepy Hollow Rd"
+						,"Address2": ""
+						,"City": "Falls Church"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "22044"
+						,"PrimaryPhone": "(703) 536-2000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.870074"
+						,"Longitude": "-77.15837429999999"
+						,"Photo1": "ab1a5537-7a08-4e91-b048-5158f6518cb6"
+						,"Photo2": "7b5db192-5d35-4baf-a27f-bdb98472e717"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Behavioral_Health, Hospital]"
+						,"ErFeed": ""
+						,"Link": "http://restonhospital-hut.prod.ehc.com/locations/dominion-hospital.dot"
+						,"CtaButton": ""
+						,"SortOrder": "2"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "bcd714c7-a500-44cd-9a77-b583152df8af"
+						,"Title": "Medical Imaging Center of Reston"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1830 Town Center Dr"
+						,"Address2": "Suite 110"
+						,"City": "Reston"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20190"
+						,"PrimaryPhone": "(703) 478-3601"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9634087"
+						,"Longitude": "-77.36469210000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/bcd714c7-a500-44cd-9a77-b583152df8af/backgroundImage"
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": "http://restonhospital-hut.prod.ehc.com/service/tests-and-imaging"
+						,"CtaButton": ""
+						,"SortOrder": "6"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "d7d19cb6-5f65-47cf-a077-839958ab6f3f"
+						,"Title": "Reston Breast Care Specialists"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1860 Town Center Dr"
+						,"Address2": "Parkway Medical Tower, Suite 410"
+						,"City": "Reston"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20190"
+						,"PrimaryPhone": "(703) 435-4320"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9552797"
+						,"Longitude": "-77.33818550000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/d7d19cb6-5f65-47cf-a077-839958ab6f3f/backgroundImage"
+						,"BuildingType": "[Medical_Office_Building]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "3"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "5587abba-3a1f-4c99-b9b4-754c89005537"
+						,"Title": "Reston Hospital Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1850 Town Center Pkwy"
+						,"Address2": ""
+						,"City": "Reston"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "20190"
+						,"PrimaryPhone": "(703) 689-9000"
+						,"Fax": ""
+						,"AdditionalText": "An 187-bed acute care medical and surgical hospital serving Northern Virginia."
+						,"Latitude": "38.9620961"
+						,"Longitude": "-77.36419669999998"
+						,"Photo1": "8f1697dc-0763-4d01-8b34-01fba673af49"
+						,"Photo2": "9c538d47-75a1-4365-b2b4-56f0de7deebf"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Reston Hospital"
+						,"Link": "http://restonhospital.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "64e1bd2d-d90c-4005-9723-5501c158f5f6"
+						,"Title": "Reston Pediatric ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1850 Town Center Pkwy"
+						,"Address2": ""
+						,"City": "Reston"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20190"
+						,"PrimaryPhone": "703-689-9000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9623151"
+						,"Longitude": "-77.3639751"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/64e1bd2d-d90c-4005-9723-5501c158f5f6/backgroundImage"
+						,"BuildingType": "[ER]"
+						,"ErFeed": "Reston Pediatric ER"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "c5f3bed8-70c4-43c1-b255-91d1cb161aa5"
+						,"Title": "Sterling at Cascades"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "46200 Potomac Run Plaza"
+						,"Address2": ""
+						,"City": "Sterling"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20164"
+						,"PrimaryPhone": "(571) 313-5087"
+						,"Fax": "(703) 430-1232"
+						,"AdditionalText": ""
+						,"Latitude": "39.0262288"
+						,"Longitude": "-77.4017088"
+						,"Photo1": ""
+						,"Photo2": "41c081e5-a01f-49d1-a949-70fb008fdb7c"
+						,"BackgroundImage": "/contentAsset/raw-data/c5f3bed8-70c4-43c1-b255-91d1cb161aa5/backgroundImage"
+						,"BuildingType": "[Urgent_Care]"
+						,"ErFeed": ""
+						,"Link": "https://www.carenow.com/locations/"
+						,"CtaButton": "<i class='icon-ok'></i>  Web Check-In®|https://wci.carenow.com/#/home/143"
+						,"SortOrder": "7"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+				
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+								
+      
+      
+  
+  
+																																																																																																																																																																																																															
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "52ae6ada-9326-43c5-a1b6-3ee4ac5152c6"
+						,"Title": "Sterling Park"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "101 Enterprise St."
+						,"Address2": ""
+						,"City": "Sterling"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20164"
+						,"PrimaryPhone": ""
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9988944"
+						,"Longitude": "-77.4031474"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/52ae6ada-9326-43c5-a1b6-3ee4ac5152c6/backgroundImage"
+						,"BuildingType": "[Urgent_Care]"
+						,"ErFeed": ""
+						,"Link": "https://www.carenow.com/locations/"
+						,"CtaButton": "Web Check-In®|https://wci.carenow.com/#/home/154"
+						,"SortOrder": "4"
+						,"Hours": "<table width='100%'><tr><td width='40%'>Sunday:</td><td>8:00AM - 5:00PM</td></tr><tr><td width='40%'>Monday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Tuesday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Wednesday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Thursday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Friday:</td><td>8:00AM - 10:00PM</td></tr><tr><td width='40%'>Saturday:</td><td>8:00AM - 8:00PM</td></tr></table>"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "ef88f6ab-0f8b-4c11-b5c5-6a03548c9f59"
+						,"Title": "Women's Imaging Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1860 Town Center Dr"
+						,"Address2": "Parkway Medical Tower, Suite 400"
+						,"City": "Reston"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "20190"
+						,"PrimaryPhone": "(703) 639-9448"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "38.9552797"
+						,"Longitude": "-77.33818550000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/ef88f6ab-0f8b-4c11-b5c5-6a03548c9f59/backgroundImage"
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": "http://restonhospital-hut.prod.ehc.com/service/womens-imaging-center"
+						,"CtaButton": ""
+						,"SortOrder": "3"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

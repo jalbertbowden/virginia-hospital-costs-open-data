@@ -1,0 +1,126 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "66ec684c-5671-42d4-9a40-617b42c5da98"
+						,"Title": "Advanced Surgical Partners of Virginia"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "12018 West Broad St"
+						,"Address2": "Suite 102"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23233"
+						,"PrimaryPhone": "(804) 360-0600"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6579398"
+						,"Longitude": "-77.63000449999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Surgery_Center]"
+						,"ErFeed": ""
+						,"Link": "http://advancedsurgicalpartnersofva.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "7d394b9c-310e-40aa-b900-cd4485c95bfa"
+						,"Title": "Parham Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7700 East Parham Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23294"
+						,"PrimaryPhone": "(804) 747-5600"
+						,"Fax": ""
+						,"AdditionalText": "A 200-bed acute-care facility serving Central Virginia."
+						,"Latitude": "37.631685"
+						,"Longitude": "-77.52546699999999"
+						,"Photo1": "0f902b29-428d-4ff5-b07b-f34518ec2825"
+						,"Photo2": "909c4117-3bd0-41df-bd4e-23f4ca672b98"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Behavioral_Health, ER, Hospital]"
+						,"ErFeed": "Parham"
+						,"Link": "http://parhamdoctors.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "d9dc5d2b-8a1a-44a3-a6d8-894119a7d8f4"
+						,"Title": "Primary Health Group - Henrico"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7660 East Parham Rd"
+						,"Address2": "Suite 103"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23294"
+						,"PrimaryPhone": "(804) 282-2580"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6308161"
+						,"Longitude": "-77.52466229999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://phg-henrico.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

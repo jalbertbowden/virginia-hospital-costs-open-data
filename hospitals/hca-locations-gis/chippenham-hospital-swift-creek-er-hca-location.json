@@ -1,0 +1,126 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "e35aac9e-d603-4d1b-bef7-52decc24c243"
+						,"Title": "Chippenham Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "7101 Jahnke Road"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23225"
+						,"PrimaryPhone": "(804) 483-0000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.51283410000001"
+						,"Longitude": "-77.5262937"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/e35aac9e-d603-4d1b-bef7-52decc24c243/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "Chippenham"
+						,"Link": "http://chippenhammed.com"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "4d12e61f-4ac2-427c-9f96-04c33e23bc23"
+						,"Title": "Johnston-Willis Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "1401 Johnston-Willis Drive"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23235"
+						,"PrimaryPhone": "(804) 483-5000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.5106901"
+						,"Longitude": "-77.59463770000002"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/4d12e61f-4ac2-427c-9f96-04c33e23bc23/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": ""
+						,"Link": "http://johnstonwillismed.com"
+						,"CtaButton": ""
+						,"SortOrder": "2"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "4a6b9163-6d66-447d-947e-ad1a20141a64"
+						,"Title": "Swift Creek ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "14720 Hancock Village St"
+						,"Address2": ""
+						,"City": "Chesterfield"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23832"
+						,"PrimaryPhone": "(804) 818-7750"
+						,"Fax": ""
+						,"AdditionalText": "Serving Richmond and Chesterfield"
+						,"Latitude": "37.4020235"
+						,"Longitude": "-77.67710840000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/4a6b9163-6d66-447d-947e-ad1a20141a64/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "Swift Creek ER"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

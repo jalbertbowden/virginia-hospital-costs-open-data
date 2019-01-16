@@ -1,0 +1,794 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "ed716f86-b856-4713-9495-d077e8dd9a71"
+						,"Title": "Advanced Surgical Partners of Virginia"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "12018 West Broad St"
+						,"Address2": "Suite 102"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23233"
+						,"PrimaryPhone": "(804) 360-0600"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6579398"
+						,"Longitude": "-77.63000449999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/ed716f86-b856-4713-9495-d077e8dd9a71/backgroundImage"
+						,"BuildingType": "[Surgery_Center]"
+						,"ErFeed": ""
+						,"Link": "http://advancedsurgicalpartnersofva.com/"
+						,"CtaButton": ""
+						,"SortOrder": "2"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "05336d2e-4cee-4fa6-9471-4f8b7dd34d59"
+						,"Title": "Cardiothoracic Surgical Associates"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7605 Forest Ave"
+						,"Address2": "Suite 302"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 282-8777"
+						,"Fax": "(804) 288-0928"
+						,"AdditionalText": ""
+						,"Latitude": "37.6040608"
+						,"Longitude": "-77.54137209999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/05336d2e-4cee-4fa6-9471-4f8b7dd34d59/backgroundImage"
+						,"BuildingType": "[Surgery_Center]"
+						,"ErFeed": ""
+						,"Link": "http://heartsurgeryva.com/"
+						,"CtaButton": ""
+						,"SortOrder": "6"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "53969dea-9899-4a31-a092-4ccca69c50e7"
+						,"Title": "Commonwealth Ob/Gyn Specialists"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7605 Forest Ave"
+						,"Address2": "Suite 411"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 285-8806"
+						,"Fax": "(804) 288-6079"
+						,"AdditionalText": ""
+						,"Latitude": "37.6040608"
+						,"Longitude": "-77.54137209999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/53969dea-9899-4a31-a092-4ccca69c50e7/backgroundImage"
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://commonwealth-obgyn.com/"
+						,"CtaButton": ""
+						,"SortOrder": "6"
+						,"Hours": "Mon - Fri: 8:00am - 4:30pm"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "72c61f5b-8551-4688-858d-a4d767534843"
+						,"Title": "Commonwealth Perinatal Services"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7601 Forest Ave"
+						,"Address2": "Suite 336"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 289-4972"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6045921"
+						,"Longitude": "-77.5408117"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://commonwealthperinatal.com/"
+						,"CtaButton": ""
+						,"SortOrder": "4"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "47426773-75e5-4002-a8e7-9ba7a457fcee"
+						,"Title": "Hanover Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "9275 Chamberlayne Rd"
+						,"Address2": ""
+						,"City": "Mechanicsville"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23116"
+						,"PrimaryPhone": "(804) 417-0300"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.65199310000001"
+						,"Longitude": "-77.39902760000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/47426773-75e5-4002-a8e7-9ba7a457fcee/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "Henrico Hanover"
+						,"Link": "http://hanoverer.com/"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "80143216-44ef-4516-9f8d-059ea6fa4e17"
+						,"Title": "Henrico Cardiology Associates"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7603 Forest Ave"
+						,"Address2": "Suite 202"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23226"
+						,"PrimaryPhone": "(804) 288-0134"
+						,"Fax": "(804) 285-5165"
+						,"AdditionalText": ""
+						,"Latitude": "37.6044709"
+						,"Longitude": "-77.540144"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://henricocardiology.com/"
+						,"CtaButton": ""
+						,"SortOrder": "9"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "f90e5259-985d-43c2-a869-b09c2178074c"
+						,"Title": "Henrico Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1602 Skipwith Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 289-4500"
+						,"Fax": ""
+						,"AdditionalText": "A 340-bed community hospital serving Central Virginia."
+						,"Latitude": "37.6045913"
+						,"Longitude": "-77.53928730000001"
+						,"Photo1": "df355626-d698-4eb2-a7cd-3e847b31909a"
+						,"Photo2": "2e741ebb-6312-4397-bf09-015bf4dab044"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Henrico"
+						,"Link": "http://henricodoctors.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "cc372108-a286-4083-8396-3e53446e121a"
+						,"Title": "Independence Park Imaging Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "9930 Independence Park Dr"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23233"
+						,"PrimaryPhone": "(804) 217-9729"
+						,"Fax": "(804) 217-9584"
+						,"AdditionalText": ""
+						,"Latitude": "37.63665"
+						,"Longitude": "-77.57070199999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": "http://www.hcavaopimaging.com/independence-park-imaging-center/"
+						,"CtaButton": ""
+						,"SortOrder": "8"
+						,"Hours": "Mon - Fri: 8:00am - 6:00pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "d3c2f5e3-9ff7-489d-8120-e67a78332b3f"
+						,"Title": "Neurological Associates"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7301 Forest Ave"
+						,"Address2": "Suite 300"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23226"
+						,"PrimaryPhone": "(804) 288-2742"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6046846"
+						,"Longitude": "-77.53343010000003"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://nairichmond.com/"
+						,"CtaButton": ""
+						,"SortOrder": "5"
+						,"Hours": "Mon - Fri: 8:00am - 4:30pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "67c7a269-75b0-4458-ab45-e9e71ee6ebbc"
+						,"Title": "Ob/Gyn Associates"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7601 Forrest Ave"
+						,"Address2": "Suite 228"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 741-0440"
+						,"Fax": "(804) 288-2277"
+						,"AdditionalText": ""
+						,"Latitude": "37.6045921"
+						,"Longitude": "-77.5408117"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://obgyn-assoc.com/"
+						,"CtaButton": ""
+						,"SortOrder": "10"
+						,"Hours": "Mon - Thurs: 8:30am - 5:00pm<br />\nFri: 8:30am - 12:00pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "4da805f4-40e1-412a-8440-75c465ce7eac"
+						,"Title": "Ob/Gyn Specialists of Richmond"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7611 Forest Ave"
+						,"Address2": "Suite 330"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 673-8791"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6040657"
+						,"Longitude": "-77.54323190000002"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://ob-gyn-specialists.com/"
+						,"CtaButton": ""
+						,"SortOrder": "11"
+						,"Hours": "Mon – Fri: 8:30am - 5:00pm"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "ec60e570-a4cf-4f95-893d-b106d4a19e49"
+						,"Title": "Pediatric ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1602 Skipwith Road"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": ""
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6040442"
+						,"Longitude": "-77.54006129999999"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/ec60e570-a4cf-4f95-893d-b106d4a19e49/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "65a0e850-fc6e-417e-a054-d895ba4572f1"
+						,"Title": "Primary Health Group - Forest"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7611 Forest Ave"
+						,"Address2": "Suite 250"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 282-0514"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6040657"
+						,"Longitude": "-77.54323190000002"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://phg-forest.com/"
+						,"CtaButton": ""
+						,"SortOrder": "3"
+						,"Hours": "Mon - Fri: 8:00am - 4:30pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "5e62bf50-1c0d-45e2-965c-37eb75f21fee"
+						,"Title": "Primary Health Group - Short Pump"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "12018 West Broad St"
+						,"Address2": "Suite 101"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23233"
+						,"PrimaryPhone": "(804) 217-9091"
+						,"Fax": "(804) 360-7155"
+						,"AdditionalText": ""
+						,"Latitude": "37.6579398"
+						,"Longitude": "-77.63000449999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://phg-shortpump.com/"
+						,"CtaButton": ""
+						,"SortOrder": "5"
+						,"Hours": "Mon - Fri: 7:00am - 4:30pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "f607d860-2f1b-46f6-b7a8-3fb82714c0cf"
+						,"Title": "Richmond Surgical"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "8921 Three Chopt Rd"
+						,"Address2": "Suite 300"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 285-9416"
+						,"Fax": "(804) 285-9461"
+						,"AdditionalText": ""
+						,"Latitude": "37.6054988"
+						,"Longitude": "-77.56092030000002"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Surgery_Center]"
+						,"ErFeed": ""
+						,"Link": "http://richmondsurg.com/"
+						,"CtaButton": ""
+						,"SortOrder": "7"
+						,"Hours": "Mon - Fri: 8:30am - 5:00pm"
+						,"StarRating": ""
+					}
+				
+					
+					
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+																	
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "2d2c0a28-50b7-4c56-bac6-2a6dfb9bbd4c"
+						,"Title": "Virginia Gynecologic Oncology"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7603 Forest Ave"
+						,"Address2": "Suite 306"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 200-7062"
+						,"Fax": "(804) 200-7063"
+						,"AdditionalText": ""
+						,"Latitude": "37.6044709"
+						,"Longitude": "-77.540144"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Cancer_Center]"
+						,"ErFeed": ""
+						,"Link": "http://vagynonc.com/"
+						,"CtaButton": ""
+						,"SortOrder": "4"
+						,"Hours": "Mon - Fri: 8:00am - 4:30pm"
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "1d296a81-de24-4d84-940e-a18d96793c71"
+						,"Title": "West Creek Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "12720 Tuckahoe Creek Ct"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23238"
+						,"PrimaryPhone": "(804) 784-1000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.6253499"
+						,"Longitude": "-77.66066860000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/1d296a81-de24-4d84-940e-a18d96793c71/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "West Creek"
+						,"Link": "http://westcreeker.com/"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

@@ -1,0 +1,86 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "29a93858-e852-4061-aacc-0956fa862302"
+						,"Title": "Henrico Doctors' Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1602 Skipwith Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23229"
+						,"PrimaryPhone": "(804) 289-4500"
+						,"Fax": ""
+						,"AdditionalText": "A 340-bed community hospital serving Central Virginia."
+						,"Latitude": "37.6045913"
+						,"Longitude": "-77.53928730000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/29a93858-e852-4061-aacc-0956fa862302/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "Henrico"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "6c2f236c-4138-4b4d-995c-f8f7e3520819"
+						,"Title": "West Creek Emergency Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "12720 Tuckahoe Creek Ct"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23238"
+						,"PrimaryPhone": "(804) 784-1000"
+						,"Fax": ""
+						,"AdditionalText": "Serving Richmond's West End"
+						,"Latitude": "37.6253499"
+						,"Longitude": "-77.66066860000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/6c2f236c-4138-4b4d-995c-f8f7e3520819/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "West Creek"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

@@ -1,0 +1,46 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "ff6b5b68-5c30-445c-8198-a56659e2a9fb"
+						,"Title": "Spotsylvania Regional Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#6e9e8d"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "4600 Spotsylvania Pkwy"
+						,"Address2": ""
+						,"City": "Fredericksburg"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "22408"
+						,"PrimaryPhone": "(540) 498-4000"
+						,"Fax": "(540) 498-4066"
+						,"AdditionalText": ""
+						,"Latitude": "38.2197743"
+						,"Longitude": "-77.50201870000001"
+						,"Photo1": "c6e2c53a-07bf-4903-8a41-723d86f1124d"
+						,"Photo2": "da501795-743b-45dc-b88d-c064abe6726f"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": "Spotsylvania"
+						,"Link": "http://spotsrmc.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

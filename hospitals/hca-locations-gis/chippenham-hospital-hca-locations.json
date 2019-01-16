@@ -1,0 +1,126 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "dcb2d1a6-935e-48d2-b7d6-d6dec6f2a613"
+						,"Title": "Chippenham Hospital"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7101 Jahnke Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23225"
+						,"PrimaryPhone": "(804) 483-0000"
+						,"Fax": ""
+						,"AdditionalText": "A 466-bed acute care hospital located in Richmond, Virginia."
+						,"Latitude": "37.51435499999999"
+						,"Longitude": "-77.52630490000001"
+						,"Photo1": "473ab79a-19b9-49f2-9c0e-87ae3ef9941c"
+						,"Photo2": "a2f4a5a0-333b-41a9-9efe-785e49f743aa"
+						,"BackgroundImage": ""
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "Chippenham"
+						,"Link": "https://chippenhammed.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "d1b9ccf0-6cc4-47b4-ab2c-dbe536736909"
+						,"Title": "Chippenham Pediatric ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "7101 Jahnke Rd"
+						,"Address2": ""
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23225"
+						,"PrimaryPhone": "(804) 483-1900"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.514666"
+						,"Longitude": "-77.525973"
+						,"Photo1": "d00d7bd1-abe3-4dd2-bb1f-050d1d74fcf4"
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[ER]"
+						,"ErFeed": "Chippenham Pediatric"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "5fc94fa4-b944-416e-bbb5-b3ebb5160d11"
+						,"Title": "HCA VA Sports Medicine"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#72A492"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1115 Boulders Pkwy"
+						,"Address2": "Suite 110"
+						,"City": "Richmond"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23225"
+						,"PrimaryPhone": "(804) 560-6500"
+						,"Fax": "(804) 560-6505"
+						,"AdditionalText": ""
+						,"Latitude": "37.51465"
+						,"Longitude": "-77.52979189999996"
+						,"Photo1": "8298326b-b13d-4896-8617-84f53fe98c42"
+						,"Photo2": "8298326b-b13d-4896-8617-84f53fe98c42"
+						,"BackgroundImage": ""
+						,"BuildingType": "[Physician_Practice]"
+						,"ErFeed": ""
+						,"Link": "http://hcavasportsmed.com/"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

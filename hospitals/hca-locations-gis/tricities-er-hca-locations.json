@@ -1,0 +1,86 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "4774aa22-45da-474b-b6a4-479bf160569e"
+						,"Title": "John Randolph Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "411 West Randolph Rd"
+						,"Address2": ""
+						,"City": "Hopewell"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "23860"
+						,"PrimaryPhone": "(804) 541-1600"
+						,"Fax": ""
+						,"AdditionalText": "A 147-bed facility committed and dedicated to serving the entire Tri-Cities Region."
+						,"Latitude": "37.3071586"
+						,"Longitude": "-77.29135600000001"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/4774aa22-45da-474b-b6a4-479bf160569e/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "John Randolph"
+						,"Link": "http://johnrandolphmedicalcenter.com/"
+						,"CtaButton": ""
+						,"SortOrder": "1"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "538bbad1-9516-4c3b-8159-7d2b7f379ecf"
+						,"Title": "TriCities ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#385278"
+						,"SecondaryColor": "#3d6053"
+						,"SecondaryGradient": "#316251"
+						,"Address1": "1700 Temple Pkwy"
+						,"Address2": ""
+						,"City": "Prince George"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "23875"
+						,"PrimaryPhone": "(804) 722-1300"
+						,"Fax": ""
+						,"AdditionalText": "Serving Colonial Harley-Davidson, Colonial Heights, Fort Lee, Hopewell, Petersburg, Prince George County and Temple Parkway"
+						,"Latitude": "37.2506504"
+						,"Longitude": "-77.3706732"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/538bbad1-9516-4c3b-8159-7d2b7f379ecf/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "JRMC TriCities ED"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}

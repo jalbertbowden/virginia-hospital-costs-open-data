@@ -1,0 +1,366 @@
+{
+		"StatusCode": 200,
+		"Status": "Success",
+		"Locations": [
+							
+					
+										
+					
+					
+										
+										
+										
+										
+										{
+						"Type": "Building"
+						,"Id": "bfe63612-1a01-4a0b-8001-9c3287a13386"
+						,"Title": "LewisGale Cave Spring ER"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2706 Ogden Rd"
+						,"Address2": ""
+						,"City": "Cave Spring"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24018"
+						,"PrimaryPhone": "(540) 970-8000"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.226984"
+						,"Longitude": "-79.980448"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/bfe63612-1a01-4a0b-8001-9c3287a13386/backgroundImage"
+						,"BuildingType": "[Freestanding_ER]"
+						,"ErFeed": "Cave Spring ER"
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "ffb2cf3e-6c47-4da4-9cc5-3521cef5af76"
+						,"Title": "LewisGale Hospital Alleghany"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1 ARH Ln"
+						,"Address2": ""
+						,"City": "Low Moor"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24457"
+						,"PrimaryPhone": "(540) 862-6011"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.7911347"
+						,"Longitude": "-79.88268779999999"
+						,"Photo1": "5f46112a-33ef-4c97-a01d-23c50195dff1"
+						,"Photo2": "dd2e3a92-67f7-4be5-b1c7-71704d8357f0"
+						,"BackgroundImage": "/contentAsset/raw-data/ffb2cf3e-6c47-4da4-9cc5-3521cef5af76/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "Alleghany"
+						,"Link": "/locations/lewisgale-hospital-alleghany"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "acdc2f29-b364-4588-a5cd-b25ddf38bf5f"
+						,"Title": "LewisGale Hospital Montgomery"
+						,"Coid": ""
+						,"PrimaryColor": "#003D79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "3700 S Main St"
+						,"Address2": ""
+						,"City": "Blacksburg"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24060"
+						,"PrimaryPhone": "(540) 951-1111"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.1878"
+						,"Longitude": "-80.41109999999998"
+						,"Photo1": "7b7e2038-a45b-4cbe-a120-ba761d41b19a"
+						,"Photo2": "78f3040b-aaed-4e48-91d3-d1b44578b820"
+						,"BackgroundImage": "/contentAsset/raw-data/acdc2f29-b364-4588-a5cd-b25ddf38bf5f/backgroundImage"
+						,"BuildingType": "[ER, Hospital]"
+						,"ErFeed": "Montgomery"
+						,"Link": "/locations/lewisgale-hospital-montgomery"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "eba3e6ba-ac97-4d7a-8e5c-847bdd2b19cb"
+						,"Title": "LewisGale Hospital Pulaski"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "2400 Lee Hwy"
+						,"Address2": ""
+						,"City": "Pulaski"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24301"
+						,"PrimaryPhone": "(540) 994-8100"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.068132"
+						,"Longitude": "-80.75685099999998"
+						,"Photo1": "5c47a75f-582f-4d0a-8450-848eae41ee97"
+						,"Photo2": "c04715d8-c3a8-4950-965b-01ddf8db1a85"
+						,"BackgroundImage": "/contentAsset/raw-data/eba3e6ba-ac97-4d7a-8e5c-847bdd2b19cb/backgroundImage"
+						,"BuildingType": "[Cancer_Center, ER, Hospital]"
+						,"ErFeed": "Pulaski"
+						,"Link": "/locations/lewisgale-hospital-pulaski"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "6f661251-89fe-4377-8219-c9cbce68c675"
+						,"Title": "LewisGale Imaging Center - Brambleton"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "4330 Brambleton Ave"
+						,"Address2": ""
+						,"City": "Roanoke"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24018"
+						,"PrimaryPhone": "(540) 283-3700"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.22676999999999"
+						,"Longitude": "-80.01009299999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/6f661251-89fe-4377-8219-c9cbce68c675/backgroundImage"
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "59ba8d90-b743-40bb-b54e-f96c5f258923"
+						,"Title": "LewisGale Imaging Center - Daleville"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "65 Shenandoah Ave"
+						,"Address2": ""
+						,"City": "Daleville"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24083"
+						,"PrimaryPhone": "(540) 772-3430"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.414757"
+						,"Longitude": "-79.91319199999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/59ba8d90-b743-40bb-b54e-f96c5f258923/backgroundImage"
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "a83cd1c4-ee8f-482b-b4a3-b10275c62a6f"
+						,"Title": "LewisGale Imaging Center - Montgomery"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "813 Davis St."
+						,"Address2": ""
+						,"City": "Blacksburg"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24060"
+						,"PrimaryPhone": "(540) 443-9900"
+						,"Fax": ""
+						,"AdditionalText": ""
+						,"Latitude": "37.1864"
+						,"Longitude": "-80.41379999999998"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": "/contentAsset/raw-data/a83cd1c4-ee8f-482b-b4a3-b10275c62a6f/backgroundImage"
+						,"BuildingType": "[Imaging_Center]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "237ebf0d-95e7-4b27-bf4a-f2f2956b6197"
+						,"Title": "LewisGale Medical Center"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1900 Electric Rd"
+						,"Address2": ""
+						,"City": "Salem"
+						,"State": "VA"
+						,"Default": "[]"
+						,"Zip": "24153"
+						,"PrimaryPhone": "(540) 776-4000"
+						,"Fax": "(804) 267-4910"
+						,"AdditionalText": ""
+						,"Latitude": "37.263689"
+						,"Longitude": "-80.03139199999998"
+						,"Photo1": "4a28b0ff-7038-4b3a-bb4e-e7264f60886e"
+						,"Photo2": "3bc41b2c-f17c-4f0c-8af1-b8127f93f38b"
+						,"BackgroundImage": "/contentAsset/raw-data/237ebf0d-95e7-4b27-bf4a-f2f2956b6197/backgroundImage"
+						,"BuildingType": "[Cancer_Center, ER, Hospital]"
+						,"ErFeed": "LewisGale"
+						,"Link": "/locations/lewisgale-medical-center"
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+				
+					
+										
+					
+					
+										
+										
+										
+										
+					,					{
+						"Type": "Building"
+						,"Id": "bef667f5-ca69-4899-9238-3ae8be80bb88"
+						,"Title": "LewisGale Regional Health System"
+						,"Coid": ""
+						,"PrimaryColor": "#003d79"
+						,"PrimaryGradient": "#2B6DB6"
+						,"SecondaryColor": "#619884"
+						,"SecondaryGradient": "#89C4AF"
+						,"Address1": "1900 Electric Rd"
+						,"Address2": ""
+						,"City": "Salem"
+						,"State": "VA"
+						,"Default": "[Yes]"
+						,"Zip": "24153"
+						,"PrimaryPhone": "(540) 776-4000"
+						,"Fax": "(540) 953-5372"
+						,"AdditionalText": ""
+						,"Latitude": "37.2630481"
+						,"Longitude": "-80.0313331"
+						,"Photo1": ""
+						,"Photo2": ""
+						,"BackgroundImage": ""
+						,"BuildingType": "[Hospital]"
+						,"ErFeed": ""
+						,"Link": ""
+						,"CtaButton": ""
+						,"SortOrder": "0"
+						,"Hours": ""
+						,"StarRating": ""
+					}
+									]
+	}
