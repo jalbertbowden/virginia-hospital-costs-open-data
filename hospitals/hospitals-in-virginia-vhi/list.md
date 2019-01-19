@@ -167,4 +167,7 @@
 |Wellmont Ridgeview Pavilion (Bristol Region)|103 North Street , Bristol, Va  24201|Psychiatric|
 |Winchester Eye Surgery Center, LLC|525 Amherst Street, Winchester, VA  22601|Ambulatory Surgical|
 |Wythe County Community Hospital|600 West Ridge Road, Wytheville, VA  24382|Acute|
-|Total Hospitals|in Virginia|167|
+
+## Total Hospitals in Virginia: 167  
+
+source: [Virginia Hospitals](http://vhi.org/Hospitals/vahospitals.asp)  
