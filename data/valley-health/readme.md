@@ -1,3 +1,4 @@
+# ![Valley Health - Healthier, together](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/valley-health-healthier-together-logotype.png)  
 # [Valley Health](https://www.valleyhealthlink.com/)  
 
 ## Valley Health Virginia Hospital Locations  
