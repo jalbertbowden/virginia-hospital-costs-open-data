@@ -1,4 +1,5 @@
-## [Hospital & Health Systems - VHHA Directory - VHHA Institutional Members](http://www.vhha.com/about/directory/hospital-health-systems/)  
+# ![Virginia Hospital & Healthcare Association - An alliance of hospitals and health delivery systems.](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/vhha-virginia-hospital-and-healthcare-association-an-alliance-of-hospitals-and-health-delivery-systems-logotype.jpg)   
+# [Hospital & Health Systems - VHHA Directory - VHHA Institutional Members](http://www.vhha.com/about/directory/hospital-health-systems/)  
 --------------------------
 
 Below is a list of VHHA member hospital & health systems.  
