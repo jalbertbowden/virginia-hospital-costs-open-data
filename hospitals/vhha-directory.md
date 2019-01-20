@@ -5,7 +5,4 @@
 
 ## [Associate Members](vhha-associate-members.md)  
 
-## [State & Federal Government]()  
-
 ## [Organizations](vhha-organizations.md)  
-
