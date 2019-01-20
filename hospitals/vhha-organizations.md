@@ -1,0 +1,17 @@
+# ![Virginia Hospital & Healthcare Association - An alliance of hospitals and health delivery systems.](https://raw.githubusercontent.com/jalbertbowden/virginia-hospital-costs-open-data/master/img/vhha-virginia-hospital-and-healthcare-association-an-alliance-of-hospitals-and-health-delivery-systems-logotype.jpg)   
+# [VHHA Organizations](http://www.vhha.com/about/directory/organizations/)  
+Below is a list of other health care-related organizations and associations, and related links.   
+
+*   [American Hospital Association](http://www.aha.org/)  
+    *   [Circle of Life Award](http://www.aha.org/circleoflife)  
+    *   [Quest for Quality Prize](http://www.aha.org/questforquality)  
+*   [APIC-VA](http://community.apic.org/virginia/home)   (Association for Professionals in Infection Control & Epidemiology, Virginia Chapter)  
+*   [National Academy for State Health Policy](http://www.nashp.org/)  
+*   [SignUpNow](http://www.signupnowva.org/)  
+*   [VHHA Shared Services](http://www.vhhaservices.com/)  
+*   [Virginia Free](http://www.vafree.com/)   (Political Research & Analysis)  
+*   [Virginia Health Care Foundation](http://www.vhcf.org/)  
+*   [Virginia Health Information](http://vhi.org/)  
+*   [Virginia Partnership for Nursing](http://www.nurseschangelives.com/)  
+*   [Virginia Public Access Project](http://www.vpap.org/)   (Campaign Finance Data)  
+*   [Virginia Society for Healthcare Marketing and Public Relations](http://www.vshmpr.com/)  
